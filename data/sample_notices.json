@@ -1,0 +1,2660 @@
+[
+  {
+    "id": "WHO-2025-00001",
+    "noticeId": "WHO-2025-00001",
+    "title": "Vaccine Distribution Initiative in Bangladesh",
+    "summary": "WHO seeks support for vaccine distribution across Bangladesh, Nepal, Philippines.",
+    "description": "WHO invites qualified firms to deliver vaccine distribution services in Bangladesh, Nepal, Philippines. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-11-14T11:00:00Z",
+    "publishDate": "2025-11-03T11:00:00Z",
+    "budget": {
+      "min": 573000,
+      "max": 2003743,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      },
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      },
+      {
+        "country": "Nepal",
+        "countryCode": "NP"
+      },
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00001-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "UNDP-2025-00002",
+    "noticeId": "UNDP-2025-00002",
+    "title": "Temperature Monitoring Initiative in Bolivia",
+    "summary": "UNDP seeks support for temperature monitoring across Bolivia.",
+    "description": "UNDP invites qualified firms to deliver temperature monitoring services in Bolivia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFP",
+    "agency": "UNDP",
+    "status": "closed",
+    "deadline": "2025-12-02T16:00:00Z",
+    "publishDate": "2025-11-05T16:00:00Z",
+    "budget": {
+      "min": 306868,
+      "max": 1945017,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      },
+      {
+        "code": "72151500",
+        "description": "Electrical system services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/undp-2025-00002-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00003",
+    "noticeId": "UNFPA-2025-00003",
+    "title": "Supply Chain Visibility Initiative in C\u00f4te d'Ivoire",
+    "summary": "UNFPA seeks support for supply chain visibility across C\u00f4te d'Ivoire, Nigeria.",
+    "description": "UNFPA invites qualified firms to deliver supply chain visibility services in C\u00f4te d'Ivoire, Nigeria. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2025-11-25T13:00:00Z",
+    "publishDate": "2025-11-06T13:00:00Z",
+    "budget": {
+      "min": 471249,
+      "max": 3081326,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      },
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00003-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001",
+      "ISO 45001",
+      "Experience with ECOWAS"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00004",
+    "noticeId": "UNICEF-2025-00004",
+    "title": "Renewable Mini-Grids Initiative in Bolivia",
+    "summary": "UNICEF seeks support for renewable mini-grids across Bolivia, Peru.",
+    "description": "UNICEF invites qualified firms to deliver renewable mini-grids services in Bolivia, Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFI",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2025-11-26T18:00:00Z",
+    "publishDate": "2025-11-05T18:00:00Z",
+    "budget": {
+      "min": 162819,
+      "max": 2755129,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00004-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "ISO 14001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNDP-2025-00005",
+    "noticeId": "UNDP-2025-00005",
+    "title": "Rural Electrification Initiative in Malawi",
+    "summary": "UNDP seeks support for rural electrification across Malawi, Zambia.",
+    "description": "UNDP invites qualified firms to deliver rural electrification services in Malawi, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFI",
+    "agency": "UNDP",
+    "status": "open",
+    "deadline": "2025-12-06T12:00:00Z",
+    "publishDate": "2025-11-06T12:00:00Z",
+    "budget": {
+      "min": 140800,
+      "max": 901912,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/undp-2025-00005-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00006",
+    "noticeId": "UNICEF-2025-00006",
+    "title": "Rural Electrification Initiative in Bolivia",
+    "summary": "UNICEF seeks support for rural electrification across Bolivia, Guatemala, Peru.",
+    "description": "UNICEF invites qualified firms to deliver rural electrification services in Bolivia, Guatemala, Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2025-12-04T00:00:00Z",
+    "publishDate": "2025-11-07T00:00:00Z",
+    "budget": {
+      "min": 481377,
+      "max": 1370149,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      },
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00006-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00007",
+    "noticeId": "UNFPA-2025-00007",
+    "title": "Last-Mile Delivery Initiative in Peru",
+    "summary": "UNFPA seeks support for last-mile delivery across Peru.",
+    "description": "UNFPA invites qualified firms to deliver last-mile delivery services in Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2025-12-01T08:00:00Z",
+    "publishDate": "2025-11-10T08:00:00Z",
+    "budget": {
+      "min": 278170,
+      "max": 2682175,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      },
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00007-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 14001",
+      "GMP certification",
+      "ISO 9001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WFP-2025-00008",
+    "noticeId": "WFP-2025-00008",
+    "title": "Medical Supply Optimization Initiative in Malawi",
+    "summary": "WFP seeks support for medical supply optimization across Malawi, Zambia.",
+    "description": "WFP invites qualified firms to deliver medical supply optimization services in Malawi, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFI",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2025-12-07T22:00:00Z",
+    "publishDate": "2025-11-09T22:00:00Z",
+    "budget": {
+      "min": 472068,
+      "max": 803439,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      },
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00008-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00009",
+    "noticeId": "UNFPA-2025-00009",
+    "title": "Last-Mile Delivery Initiative in Ethiopia",
+    "summary": "UNFPA seeks support for last-mile delivery across Ethiopia.",
+    "description": "UNFPA invites qualified firms to deliver last-mile delivery services in Ethiopia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2025-11-22T12:00:00Z",
+    "publishDate": "2025-11-12T12:00:00Z",
+    "budget": {
+      "min": 354875,
+      "max": 2992775,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      },
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Ethiopia",
+        "countryCode": "ET"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00009-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 14001",
+      "GDP certification",
+      "ISO 9001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "East Africa"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00010",
+    "noticeId": "UNFPA-2025-00010",
+    "title": "Medical Supply Optimization Initiative in Malawi",
+    "summary": "UNFPA seeks support for medical supply optimization across Malawi, Zambia.",
+    "description": "UNFPA invites qualified firms to deliver medical supply optimization services in Malawi, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFQ",
+    "agency": "UNFPA",
+    "status": "amended",
+    "deadline": "2025-11-22T06:00:00Z",
+    "publishDate": "2025-11-11T06:00:00Z",
+    "budget": {
+      "min": 485307,
+      "max": 941891,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00010-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "GMP certification",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNDP-2025-00011",
+    "noticeId": "UNDP-2025-00011",
+    "title": "Water Treatment Initiative in Zambia",
+    "summary": "UNDP seeks support for water treatment across Zambia, Malawi.",
+    "description": "UNDP invites qualified firms to deliver water treatment services in Zambia, Malawi. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "UNDP",
+    "status": "amended",
+    "deadline": "2025-12-21T14:00:00Z",
+    "publishDate": "2025-11-13T14:00:00Z",
+    "budget": {
+      "min": 486529,
+      "max": 2181879,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      },
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/undp-2025-00011-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "ISO 45001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00012",
+    "noticeId": "WHO-2025-00012",
+    "title": "Supply Chain Visibility Initiative in Kenya",
+    "summary": "WHO seeks support for supply chain visibility across Kenya, Ethiopia, Uganda.",
+    "description": "WHO invites qualified firms to deliver supply chain visibility services in Kenya, Ethiopia, Uganda. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFQ",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-15T16:00:00Z",
+    "publishDate": "2025-11-14T16:00:00Z",
+    "budget": {
+      "min": 405254,
+      "max": 2169849,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      },
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Kenya",
+        "countryCode": "KE"
+      },
+      {
+        "country": "Ethiopia",
+        "countryCode": "ET"
+      },
+      {
+        "country": "Uganda",
+        "countryCode": "UG"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00012-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "East Africa"
+    }
+  },
+  {
+    "id": "WFP-2025-00013",
+    "noticeId": "WFP-2025-00013",
+    "title": "Warehouse Management Initiative in Philippines",
+    "summary": "WFP seeks support for warehouse management across Philippines.",
+    "description": "WFP invites qualified firms to deliver warehouse management services in Philippines. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2026-01-05T02:00:00Z",
+    "publishDate": "2025-11-16T02:00:00Z",
+    "budget": {
+      "min": 528707,
+      "max": 2223610,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      },
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00013-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification",
+      "ISO 45001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "WFP-2025-00014",
+    "noticeId": "WFP-2025-00014",
+    "title": "Last-Mile Delivery Initiative in Ghana",
+    "summary": "WFP seeks support for last-mile delivery across Ghana, Nigeria.",
+    "description": "WFP invites qualified firms to deliver last-mile delivery services in Ghana, Nigeria. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFQ",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2026-01-12T02:00:00Z",
+    "publishDate": "2025-11-16T02:00:00Z",
+    "budget": {
+      "min": 213265,
+      "max": 1755781,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      },
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Ghana",
+        "countryCode": "GH"
+      },
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00014-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "ISO 45001",
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00015",
+    "noticeId": "WHO-2025-00015",
+    "title": "Medical Supply Optimization Initiative in Mozambique",
+    "summary": "WHO seeks support for medical supply optimization across Mozambique.",
+    "description": "WHO invites qualified firms to deliver medical supply optimization services in Mozambique. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-02T15:00:00Z",
+    "publishDate": "2025-11-16T15:00:00Z",
+    "budget": {
+      "min": 185885,
+      "max": 2053558,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00015-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WFP-2025-00016",
+    "noticeId": "WFP-2025-00016",
+    "title": "Water Treatment Initiative in Tanzania",
+    "summary": "WFP seeks support for water treatment across Tanzania.",
+    "description": "WFP invites qualified firms to deliver water treatment services in Tanzania. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2026-01-03T16:00:00Z",
+    "publishDate": "2025-11-17T16:00:00Z",
+    "budget": {
+      "min": 204496,
+      "max": 730960,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      },
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Tanzania",
+        "countryCode": "TZ"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00016-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "East Africa"
+    }
+  },
+  {
+    "id": "UNHCR-2025-00017",
+    "noticeId": "UNHCR-2025-00017",
+    "title": "Rural Electrification Initiative in Peru",
+    "summary": "UNHCR seeks support for rural electrification across Peru, Guatemala, Bolivia.",
+    "description": "UNHCR invites qualified firms to deliver rural electrification services in Peru, Guatemala, Bolivia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFP",
+    "agency": "UNHCR",
+    "status": "amended",
+    "deadline": "2026-01-05T21:00:00Z",
+    "publishDate": "2025-11-18T21:00:00Z",
+    "budget": {
+      "min": 309356,
+      "max": 3116485,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      },
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unhcr-2025-00017-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "Experience with ECOWAS",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WHO-2025-00018",
+    "noticeId": "WHO-2025-00018",
+    "title": "Solar Hybrid Systems Initiative in Zambia",
+    "summary": "WHO seeks support for solar hybrid systems across Zambia, Mozambique, Malawi.",
+    "description": "WHO invites qualified firms to deliver solar hybrid systems services in Zambia, Mozambique, Malawi. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFQ",
+    "agency": "WHO",
+    "status": "closed",
+    "deadline": "2025-12-18T17:00:00Z",
+    "publishDate": "2025-11-20T17:00:00Z",
+    "budget": {
+      "min": 450588,
+      "max": 2319069,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      },
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      },
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      },
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00018-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00019",
+    "noticeId": "UNICEF-2025-00019",
+    "title": "Last-Mile Delivery Initiative in Bolivia",
+    "summary": "UNICEF seeks support for last-mile delivery across Bolivia, Guatemala, Peru.",
+    "description": "UNICEF invites qualified firms to deliver last-mile delivery services in Bolivia, Guatemala, Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFI",
+    "agency": "UNICEF",
+    "status": "closed",
+    "deadline": "2025-12-03T16:00:00Z",
+    "publishDate": "2025-11-21T16:00:00Z",
+    "budget": {
+      "min": 438285,
+      "max": 3141654,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      },
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00019-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "Experience with ECOWAS",
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WHO-2025-00020",
+    "noticeId": "WHO-2025-00020",
+    "title": "Warehouse Management Initiative in Nigeria",
+    "summary": "WHO seeks support for warehouse management across Nigeria, Senegal, C\u00f4te d'Ivoire.",
+    "description": "WHO invites qualified firms to deliver warehouse management services in Nigeria, Senegal, C\u00f4te d'Ivoire. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-04T05:00:00Z",
+    "publishDate": "2025-11-23T05:00:00Z",
+    "budget": {
+      "min": 142833,
+      "max": 1799202,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78102200",
+        "description": "Freight forwarding services"
+      },
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      },
+      {
+        "country": "Senegal",
+        "countryCode": "SN"
+      },
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00020-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00021",
+    "noticeId": "UNICEF-2025-00021",
+    "title": "Temperature Monitoring Initiative in Ethiopia",
+    "summary": "UNICEF seeks support for temperature monitoring across Ethiopia, Tanzania, Kenya.",
+    "description": "UNICEF invites qualified firms to deliver temperature monitoring services in Ethiopia, Tanzania, Kenya. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "UNICEF",
+    "status": "amended",
+    "deadline": "2026-01-01T05:00:00Z",
+    "publishDate": "2025-11-23T05:00:00Z",
+    "budget": {
+      "min": 103260,
+      "max": 2344342,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Ethiopia",
+        "countryCode": "ET"
+      },
+      {
+        "country": "Tanzania",
+        "countryCode": "TZ"
+      },
+      {
+        "country": "Kenya",
+        "countryCode": "KE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00021-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 14001",
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "East Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00022",
+    "noticeId": "UNICEF-2025-00022",
+    "title": "Medical Supply Optimization Initiative in Bolivia",
+    "summary": "UNICEF seeks support for medical supply optimization across Bolivia, Peru.",
+    "description": "UNICEF invites qualified firms to deliver medical supply optimization services in Bolivia, Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "UNICEF",
+    "status": "closed",
+    "deadline": "2026-01-18T01:00:00Z",
+    "publishDate": "2025-11-24T01:00:00Z",
+    "budget": {
+      "min": 308452,
+      "max": 3068239,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "72151500",
+        "description": "Electrical system services"
+      },
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00022-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WFP-2025-00023",
+    "noticeId": "WFP-2025-00023",
+    "title": "Last-Mile Delivery Initiative in Philippines",
+    "summary": "WFP seeks support for last-mile delivery across Philippines, Nepal.",
+    "description": "WFP invites qualified firms to deliver last-mile delivery services in Philippines, Nepal. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2026-01-18T21:00:00Z",
+    "publishDate": "2025-11-26T21:00:00Z",
+    "budget": {
+      "min": 354202,
+      "max": 507108,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      },
+      {
+        "country": "Nepal",
+        "countryCode": "NP"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00023-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001",
+      "GMP certification",
+      "ISO 45001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "UNDP-2025-00024",
+    "noticeId": "UNDP-2025-00024",
+    "title": "Last-Mile Delivery Initiative in Bolivia",
+    "summary": "UNDP seeks support for last-mile delivery across Bolivia, Guatemala, Peru.",
+    "description": "UNDP invites qualified firms to deliver last-mile delivery services in Bolivia, Guatemala, Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNDP",
+    "status": "closed",
+    "deadline": "2026-01-11T11:00:00Z",
+    "publishDate": "2025-11-25T11:00:00Z",
+    "budget": {
+      "min": 330973,
+      "max": 1710228,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      },
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/undp-2025-00024-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "Experience with ECOWAS",
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WHO-2025-00025",
+    "noticeId": "WHO-2025-00025",
+    "title": "Temperature Monitoring Initiative in Peru",
+    "summary": "WHO seeks support for temperature monitoring across Peru, Bolivia.",
+    "description": "WHO invites qualified firms to deliver temperature monitoring services in Peru, Bolivia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-06T01:00:00Z",
+    "publishDate": "2025-11-26T01:00:00Z",
+    "budget": {
+      "min": 534160,
+      "max": 2999872,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "26111600",
+        "description": "Electrical generation equipment"
+      },
+      {
+        "code": "72151500",
+        "description": "Electrical system services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      },
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00025-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "Experience with ECOWAS"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00026",
+    "noticeId": "UNICEF-2025-00026",
+    "title": "Last-Mile Delivery Initiative in Bangladesh",
+    "summary": "UNICEF seeks support for last-mile delivery across Bangladesh, Philippines.",
+    "description": "UNICEF invites qualified firms to deliver last-mile delivery services in Bangladesh, Philippines. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFP",
+    "agency": "UNICEF",
+    "status": "amended",
+    "deadline": "2026-01-16T23:00:00Z",
+    "publishDate": "2025-11-28T23:00:00Z",
+    "budget": {
+      "min": 451745,
+      "max": 1059817,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      },
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      },
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00026-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "WHO-2025-00027",
+    "noticeId": "WHO-2025-00027",
+    "title": "Cold Chain Logistics Initiative in Kenya",
+    "summary": "WHO seeks support for cold chain logistics across Kenya.",
+    "description": "WHO invites qualified firms to deliver cold chain logistics services in Kenya. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2026-01-04T14:00:00Z",
+    "publishDate": "2025-11-30T14:00:00Z",
+    "budget": {
+      "min": 232579,
+      "max": 2582268,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Kenya",
+        "countryCode": "KE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00027-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "East Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00028",
+    "noticeId": "WHO-2025-00028",
+    "title": "Rural Electrification Initiative in Mozambique",
+    "summary": "WHO seeks support for rural electrification across Mozambique.",
+    "description": "WHO invites qualified firms to deliver rural electrification services in Mozambique. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-20T18:00:00Z",
+    "publishDate": "2025-11-29T18:00:00Z",
+    "budget": {
+      "min": 324126,
+      "max": 1835054,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      },
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00028-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 14001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00029",
+    "noticeId": "WHO-2025-00029",
+    "title": "Rural Electrification Initiative in C\u00f4te d'Ivoire",
+    "summary": "WHO seeks support for rural electrification across C\u00f4te d'Ivoire, Senegal, Nigeria.",
+    "description": "WHO invites qualified firms to deliver rural electrification services in C\u00f4te d'Ivoire, Senegal, Nigeria. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2026-01-09T09:00:00Z",
+    "publishDate": "2025-12-01T09:00:00Z",
+    "budget": {
+      "min": 64099,
+      "max": 761738,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      },
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      },
+      {
+        "country": "Senegal",
+        "countryCode": "SN"
+      },
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00029-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "GMP certification",
+      "IEC 62257",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00030",
+    "noticeId": "UNICEF-2025-00030",
+    "title": "Cold Chain Logistics Initiative in Guatemala",
+    "summary": "UNICEF seeks support for cold chain logistics across Guatemala, Bolivia.",
+    "description": "UNICEF invites qualified firms to deliver cold chain logistics services in Guatemala, Bolivia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "EOI",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2026-02-01T00:00:00Z",
+    "publishDate": "2025-12-03T00:00:00Z",
+    "budget": {
+      "min": 447208,
+      "max": 3289450,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00030-main.pdf",
+        "name": "EOI Document",
+        "type": "EOI"
+      }
+    ],
+    "requiredQualifications": [
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "WHO-2025-00031",
+    "noticeId": "WHO-2025-00031",
+    "title": "Warehouse Management Initiative in Nigeria",
+    "summary": "WHO seeks support for warehouse management across Nigeria, C\u00f4te d'Ivoire.",
+    "description": "WHO invites qualified firms to deliver warehouse management services in Nigeria, C\u00f4te d'Ivoire. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFQ",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2025-12-18T19:00:00Z",
+    "publishDate": "2025-12-02T19:00:00Z",
+    "budget": {
+      "min": 326171,
+      "max": 3178129,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      },
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      },
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00031-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "Certified cold-chain specialists",
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00032",
+    "noticeId": "UNFPA-2025-00032",
+    "title": "Supply Chain Visibility Initiative in Bangladesh",
+    "summary": "UNFPA seeks support for supply chain visibility across Bangladesh.",
+    "description": "UNFPA invites qualified firms to deliver supply chain visibility services in Bangladesh. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFI",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2025-12-31T07:00:00Z",
+    "publishDate": "2025-12-04T07:00:00Z",
+    "budget": {
+      "min": 127967,
+      "max": 1171393,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101600",
+        "description": "Postal and small parcel services"
+      },
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00032-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "Experience with ECOWAS",
+      "ISO 45001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00033",
+    "noticeId": "UNICEF-2025-00033",
+    "title": "Rural Electrification Initiative in Malawi",
+    "summary": "UNICEF seeks support for rural electrification across Malawi, Mozambique, Zambia.",
+    "description": "UNICEF invites qualified firms to deliver rural electrification services in Malawi, Mozambique, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFP",
+    "agency": "UNICEF",
+    "status": "closed",
+    "deadline": "2026-01-24T05:00:00Z",
+    "publishDate": "2025-12-06T05:00:00Z",
+    "budget": {
+      "min": 158268,
+      "max": 2803993,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      },
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00033-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00034",
+    "noticeId": "WHO-2025-00034",
+    "title": "Last-Mile Delivery Initiative in C\u00f4te d'Ivoire",
+    "summary": "WHO seeks support for last-mile delivery across C\u00f4te d'Ivoire, Ghana.",
+    "description": "WHO invites qualified firms to deliver last-mile delivery services in C\u00f4te d'Ivoire, Ghana. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2026-01-25T02:00:00Z",
+    "publishDate": "2025-12-06T02:00:00Z",
+    "budget": {
+      "min": 589594,
+      "max": 2389268,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      },
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      }
+    ],
+    "countries": [
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      },
+      {
+        "country": "Ghana",
+        "countryCode": "GH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00034-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00035",
+    "noticeId": "UNICEF-2025-00035",
+    "title": "Cold Chain Logistics Initiative in Malawi",
+    "summary": "UNICEF seeks support for cold chain logistics across Malawi, Mozambique.",
+    "description": "UNICEF invites qualified firms to deliver cold chain logistics services in Malawi, Mozambique. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "RFI",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2026-01-17T04:00:00Z",
+    "publishDate": "2025-12-06T04:00:00Z",
+    "budget": {
+      "min": 527427,
+      "max": 1671945,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "47101500",
+        "description": "Water treatment equipment"
+      },
+      {
+        "code": "76121500",
+        "description": "Water quality support services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00035-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Water & Sanitation",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00036",
+    "noticeId": "UNICEF-2025-00036",
+    "title": "Water Treatment Initiative in Bolivia",
+    "summary": "UNICEF seeks support for water treatment across Bolivia, Peru, Guatemala.",
+    "description": "UNICEF invites qualified firms to deliver water treatment services in Bolivia, Peru, Guatemala. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFI",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2026-02-02T13:00:00Z",
+    "publishDate": "2025-12-09T13:00:00Z",
+    "budget": {
+      "min": 514241,
+      "max": 2153564,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      },
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bolivia",
+        "countryCode": "BO"
+      },
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      },
+      {
+        "country": "Guatemala",
+        "countryCode": "GT"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00036-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNHCR-2025-00037",
+    "noticeId": "UNHCR-2025-00037",
+    "title": "Cold Chain Logistics Initiative in Mozambique",
+    "summary": "UNHCR seeks support for cold chain logistics across Mozambique, Zambia.",
+    "description": "UNHCR invites qualified firms to deliver cold chain logistics services in Mozambique, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "EOI",
+    "agency": "UNHCR",
+    "status": "open",
+    "deadline": "2026-01-23T11:00:00Z",
+    "publishDate": "2025-12-09T11:00:00Z",
+    "budget": {
+      "min": 200699,
+      "max": 2287288,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unhcr-2025-00037-main.pdf",
+        "name": "EOI Document",
+        "type": "EOI"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001",
+      "GDP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNHCR-2025-00038",
+    "noticeId": "UNHCR-2025-00038",
+    "title": "Cold Chain Logistics Initiative in Philippines",
+    "summary": "UNHCR seeks support for cold chain logistics across Philippines, Nepal, Bangladesh.",
+    "description": "UNHCR invites qualified firms to deliver cold chain logistics services in Philippines, Nepal, Bangladesh. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNHCR",
+    "status": "open",
+    "deadline": "2026-01-04T20:00:00Z",
+    "publishDate": "2025-12-11T20:00:00Z",
+    "budget": {
+      "min": 554548,
+      "max": 2335893,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      },
+      {
+        "code": "78101600",
+        "description": "Postal and small parcel services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      },
+      {
+        "country": "Nepal",
+        "countryCode": "NP"
+      },
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unhcr-2025-00038-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification",
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "WFP-2025-00039",
+    "noticeId": "WFP-2025-00039",
+    "title": "Medical Supply Optimization Initiative in Senegal",
+    "summary": "WFP seeks support for medical supply optimization across Senegal, Nigeria.",
+    "description": "WFP invites qualified firms to deliver medical supply optimization services in Senegal, Nigeria. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "WFP",
+    "status": "open",
+    "deadline": "2026-02-10T08:00:00Z",
+    "publishDate": "2025-12-12T08:00:00Z",
+    "budget": {
+      "min": 72268,
+      "max": 2817081,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101800",
+        "description": "Public health services"
+      },
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Senegal",
+        "countryCode": "SN"
+      },
+      {
+        "country": "Nigeria",
+        "countryCode": "NG"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/wfp-2025-00039-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001",
+      "GDP certification",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00040",
+    "noticeId": "UNFPA-2025-00040",
+    "title": "Supply Chain Visibility Initiative in Malawi",
+    "summary": "UNFPA seeks support for supply chain visibility across Malawi, Mozambique, Zambia.",
+    "description": "UNFPA invites qualified firms to deliver supply chain visibility services in Malawi, Mozambique, Zambia. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFP",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2026-02-04T20:00:00Z",
+    "publishDate": "2025-12-12T20:00:00Z",
+    "budget": {
+      "min": 574927,
+      "max": 3211007,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      },
+      {
+        "code": "78101600",
+        "description": "Postal and small parcel services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      },
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      },
+      {
+        "country": "Zambia",
+        "countryCode": "ZM"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00040-main.pdf",
+        "name": "RFP Document",
+        "type": "RFP"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification",
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00041",
+    "noticeId": "WHO-2025-00041",
+    "title": "Cold Chain Logistics Initiative in Nepal",
+    "summary": "WHO seeks support for cold chain logistics across Nepal.",
+    "description": "WHO invites qualified firms to deliver cold chain logistics services in Nepal. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "closed",
+    "deadline": "2025-12-30T04:00:00Z",
+    "publishDate": "2025-12-14T04:00:00Z",
+    "budget": {
+      "min": 454561,
+      "max": 2173136,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      },
+      {
+        "code": "72151500",
+        "description": "Electrical system services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Nepal",
+        "countryCode": "NP"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00041-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "Experience with ECOWAS",
+      "ISO 9001",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "WHO-2025-00042",
+    "noticeId": "WHO-2025-00042",
+    "title": "Vaccine Distribution Initiative in Mozambique",
+    "summary": "WHO seeks support for vaccine distribution across Mozambique, Malawi.",
+    "description": "WHO invites qualified firms to deliver vaccine distribution services in Mozambique, Malawi. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFI",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2026-02-07T13:00:00Z",
+    "publishDate": "2025-12-13T13:00:00Z",
+    "budget": {
+      "min": 234107,
+      "max": 2510977,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      },
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      },
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00042-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "Certified cold-chain specialists",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00043",
+    "noticeId": "UNFPA-2025-00043",
+    "title": "Supply Chain Visibility Initiative in Bangladesh",
+    "summary": "UNFPA seeks support for supply chain visibility across Bangladesh, Philippines.",
+    "description": "UNFPA invites qualified firms to deliver supply chain visibility services in Bangladesh, Philippines. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFQ",
+    "agency": "UNFPA",
+    "status": "closed",
+    "deadline": "2025-12-30T14:00:00Z",
+    "publishDate": "2025-12-14T14:00:00Z",
+    "budget": {
+      "min": 230099,
+      "max": 1554084,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      },
+      {
+        "code": "78102200",
+        "description": "Freight forwarding services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      },
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00043-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001",
+      "ISO 14001",
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "UNICEF-2025-00044",
+    "noticeId": "UNICEF-2025-00044",
+    "title": "Solar Hybrid Systems Initiative in Senegal",
+    "summary": "UNICEF seeks support for solar hybrid systems across Senegal, Ghana, C\u00f4te d'Ivoire.",
+    "description": "UNICEF invites qualified firms to deliver solar hybrid systems services in Senegal, Ghana, C\u00f4te d'Ivoire. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFI",
+    "agency": "UNICEF",
+    "status": "open",
+    "deadline": "2026-01-29T22:00:00Z",
+    "publishDate": "2025-12-17T22:00:00Z",
+    "budget": {
+      "min": 411454,
+      "max": 2372631,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      },
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Senegal",
+        "countryCode": "SN"
+      },
+      {
+        "country": "Ghana",
+        "countryCode": "GH"
+      },
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unicef-2025-00044-main.pdf",
+        "name": "RFI Document",
+        "type": "RFI"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification",
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "West Africa"
+    }
+  },
+  {
+    "id": "UNDP-2025-00045",
+    "noticeId": "UNDP-2025-00045",
+    "title": "Renewable Mini-Grids Initiative in Mozambique",
+    "summary": "UNDP seeks support for renewable mini-grids across Mozambique.",
+    "description": "UNDP invites qualified firms to deliver renewable mini-grids services in Mozambique. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNDP",
+    "status": "open",
+    "deadline": "2026-01-25T08:00:00Z",
+    "publishDate": "2025-12-18T08:00:00Z",
+    "budget": {
+      "min": 581469,
+      "max": 1342748,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      },
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Mozambique",
+        "countryCode": "MZ"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/undp-2025-00045-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "Certified cold-chain specialists",
+      "GMP certification"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "WHO-2025-00046",
+    "noticeId": "WHO-2025-00046",
+    "title": "Last-Mile Delivery Initiative in Peru",
+    "summary": "WHO seeks support for last-mile delivery across Peru.",
+    "description": "WHO invites qualified firms to deliver last-mile delivery services in Peru. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "RFQ",
+    "agency": "WHO",
+    "status": "amended",
+    "deadline": "2026-01-27T14:00:00Z",
+    "publishDate": "2025-12-18T14:00:00Z",
+    "budget": {
+      "min": 286036,
+      "max": 1424176,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "81101507",
+        "description": "Business process consulting"
+      },
+      {
+        "code": "86101601",
+        "description": "Supply chain management consulting"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Peru",
+        "countryCode": "PE"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00046-main.pdf",
+        "name": "RFQ Document",
+        "type": "RFQ"
+      }
+    ],
+    "requiredQualifications": [
+      "GDP certification",
+      "ISO 14001",
+      "IEC 62257"
+    ],
+    "additionalInfo": {
+      "focusArea": "Supply Chain Consulting",
+      "region": "Latin America"
+    }
+  },
+  {
+    "id": "UNHCR-2025-00047",
+    "noticeId": "UNHCR-2025-00047",
+    "title": "Supply Chain Visibility Initiative in Malawi",
+    "summary": "UNHCR seeks support for supply chain visibility across Malawi.",
+    "description": "UNHCR invites qualified firms to deliver supply chain visibility services in Malawi. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Goods & Works",
+    "procurementType": "EOI",
+    "agency": "UNHCR",
+    "status": "closed",
+    "deadline": "2026-02-05T10:00:00Z",
+    "publishDate": "2025-12-19T10:00:00Z",
+    "budget": {
+      "min": 117598,
+      "max": 2692215,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "83101602",
+        "description": "Power distribution services"
+      },
+      {
+        "code": "72151500",
+        "description": "Electrical system services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Malawi",
+        "countryCode": "MW"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unhcr-2025-00047-main.pdf",
+        "name": "EOI Document",
+        "type": "EOI"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 9001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Renewable Energy",
+      "region": "Southern Africa"
+    }
+  },
+  {
+    "id": "UNHCR-2025-00048",
+    "noticeId": "UNHCR-2025-00048",
+    "title": "Vaccine Distribution Initiative in Philippines",
+    "summary": "UNHCR seeks support for vaccine distribution across Philippines.",
+    "description": "UNHCR invites qualified firms to deliver vaccine distribution services in Philippines. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "UNHCR",
+    "status": "open",
+    "deadline": "2026-01-27T14:00:00Z",
+    "publishDate": "2025-12-20T14:00:00Z",
+    "budget": {
+      "min": 458587,
+      "max": 1004345,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      },
+      {
+        "code": "78101600",
+        "description": "Postal and small parcel services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unhcr-2025-00048-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 14001",
+      "Certified cold-chain specialists"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "UNFPA-2025-00049",
+    "noticeId": "UNFPA-2025-00049",
+    "title": "Solar Hybrid Systems Initiative in Philippines",
+    "summary": "UNFPA seeks support for solar hybrid systems across Philippines, Nepal, Bangladesh.",
+    "description": "UNFPA invites qualified firms to deliver solar hybrid systems services in Philippines, Nepal, Bangladesh. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "EOI",
+    "agency": "UNFPA",
+    "status": "open",
+    "deadline": "2026-01-28T06:00:00Z",
+    "publishDate": "2025-12-22T06:00:00Z",
+    "budget": {
+      "min": 412112,
+      "max": 3028863,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "78101800",
+        "description": "Warehousing services"
+      },
+      {
+        "code": "78101600",
+        "description": "Postal and small parcel services"
+      }
+    ],
+    "countries": [
+      {
+        "country": "Philippines",
+        "countryCode": "PH"
+      },
+      {
+        "country": "Nepal",
+        "countryCode": "NP"
+      },
+      {
+        "country": "Bangladesh",
+        "countryCode": "BD"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/unfpa-2025-00049-main.pdf",
+        "name": "EOI Document",
+        "type": "EOI"
+      }
+    ],
+    "requiredQualifications": [
+      "ISO 45001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Logistics",
+      "region": "Asia"
+    }
+  },
+  {
+    "id": "WHO-2025-00050",
+    "noticeId": "WHO-2025-00050",
+    "title": "Vaccine Distribution Initiative in C\u00f4te d'Ivoire",
+    "summary": "WHO seeks support for vaccine distribution across C\u00f4te d'Ivoire.",
+    "description": "WHO invites qualified firms to deliver vaccine distribution services in C\u00f4te d'Ivoire. The assignment covers assessment, implementation, training, and ongoing support with strong reporting requirements.",
+    "procurementCategory": "Services",
+    "procurementType": "ITB",
+    "agency": "WHO",
+    "status": "open",
+    "deadline": "2026-02-01T04:00:00Z",
+    "publishDate": "2025-12-22T04:00:00Z",
+    "budget": {
+      "min": 234094,
+      "max": 567324,
+      "currency": "USD"
+    },
+    "unspsc": [
+      {
+        "code": "85101700",
+        "description": "Medical practice services"
+      },
+      {
+        "code": "51191500",
+        "description": "Vaccines"
+      }
+    ],
+    "countries": [
+      {
+        "country": "C\u00f4te d'Ivoire",
+        "countryCode": "CI"
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://example.org/docs/who-2025-00050-main.pdf",
+        "name": "ITB Document",
+        "type": "ITB"
+      }
+    ],
+    "requiredQualifications": [
+      "IEC 62257",
+      "ISO 45001",
+      "ISO 14001"
+    ],
+    "additionalInfo": {
+      "focusArea": "Health Systems",
+      "region": "West Africa"
+    }
+  }
+]

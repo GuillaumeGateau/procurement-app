@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./design-system.css";
+
+html,
+body {
+  @apply bg-cream text-slate font-sans antialiased;
+}
+
+a {
+  @apply text-ocean hover:text-accent transition-colors duration-150;
+}
+
+.container-responsive {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+

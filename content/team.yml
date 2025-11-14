@@ -1,0 +1,89 @@
+- name: Rory Macmillan
+  role: Partner
+  email: rory@macmillankeck.pro
+  phone: "+41 79 752 36 22"
+  expertise:
+    - Electronic communications law and regulation
+    - Data protection and privacy law
+    - Digital identification systems
+    - Digital financial services regulation
+    - Privatisation, investment, financing and outsourcing
+    - Mediation and expert adjudication
+  notable:
+    - Founder of Macmillan & Co., now Macmillan Keck
+    - Accredited mediator (CEDR) and Chartered Institute of Arbitrators member
+    - Recognised for dispute resolution leadership in telecom sector
+
+- name: Richard Keck
+  role: Partner
+  email: richard@macmillankeck.pro
+  phone: "+1 404 348 3333"
+  expertise:
+    - Telecommunications and digital services
+    - Corporate, commercial and finance
+    - Joint ventures and public-private partnerships
+    - International transactions and investments
+    - Law and economics
+  notable:
+    - Co-founder of Macmillan Keck with experience in 85+ jurisdictions
+    - Structured complex telecom and infrastructure ventures globally
+    - Advisor to governments and operators on market liberalization
+
+- name: Jason Blechman
+  role: Counsel
+  email: jasonblechman@macmillankeck.pro
+  phone: "+1 917 968 1571"
+  expertise:
+    - Data protection and digital identification
+    - Digital financial services
+    - Telecommunications regulation
+    - Competition and policy reform
+    - Legislative and regulatory drafting
+    - Commercial transactions
+  notable:
+    - Publications on fintech regulation across Africa and Asia
+    - Drafted data protection, cybersecurity, and competition reforms
+    - Volunteer firefighter; trusted advisor on inclusive finance
+
+- name: Scott Garvey
+  role: Counsel
+  email: scottgarvey@macmillankeck.pro
+  phone: "+1 646 954 5381"
+  expertise:
+    - Telecommunications law and transactions
+    - International and corporate tax
+    - Legislative drafting
+    - Public administration
+    - Economic development
+  notable:
+    - Former Attorney General of Pohnpei State
+    - Executive Editor, Virginia Law Review; Order of the Coif
+    - Leads telecom liberalization and infrastructure policy initiatives
+
+- name: Lale Tuzmen Aktas
+  role: Counsel
+  email: laletuzmen@macmillankeck.pro
+  phone: "+1 929 354 9955"
+  expertise:
+    - Corporate and technology transactions
+    - Entrepreneurs and emerging companies
+    - Digital financial services and data protection
+    - Telecommunications regulation
+  notable:
+    - Director, Robert College Alumni Association (US Chapter)
+    - Contributor to Turkish e-commerce and biometric regulation
+    - Graduate Editor, NYU Journal of International Law & Policy
+
+- name: Christina Heliotis
+  role: Counsel
+  email: christinaheliotis@macmillankeck.pro
+  phone: "+1 202 451 8395"
+  expertise:
+    - Data governance and privacy
+    - Cybersecurity and digital transformation
+    - Corporate governance
+  notable:
+    - Experience with the World Bank, IFC, and EBRD
+    - Fellow, Centre of Global Governance, Geneva Graduate Institute
+    - Author on AI regulation, ESG privacy, and digital justice systems
+

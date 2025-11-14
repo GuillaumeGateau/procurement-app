@@ -1,0 +1,29 @@
+company_name: Example Consulting Ltd.
+primary_service_categories:
+  - Health systems strengthening
+  - Supply chain optimization
+unspsc_codes:
+  - "85100000"
+  - "85101800"
+keywords:
+  - logistics
+  - vaccine
+  - cold chain
+geographies:
+  regions:
+    - Africa
+  countries:
+    - KE
+    - UG
+preferred_procurement_types:
+  - RFP
+  - RFQ
+min_contract_value: 50000
+max_contract_value: 2000000
+preferred_agencies:
+  - UNICEF
+  - WHO
+required_qualifications:
+  - ISO 9001
+  - GMP certification
+deadline_min_days: 5

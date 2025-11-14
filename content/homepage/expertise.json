@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Drafting modern data protection regimes",
+    "description": "We craft privacy, cybersecurity, and digital ID frameworks that balance innovation with enforcement and institutional capacity.",
+    "tags": ["Data protection", "Digital ID", "Cybersecurity"]
+  },
+  {
+    "title": "Telecom infrastructure sharing and broadband expansion",
+    "description": "Designing PPPs and open access models for submarine cables, utilities, and fiber networks to unlock resilient connectivity.",
+    "tags": ["PPP", "Infrastructure sharing", "Broadband"]
+  },
+  {
+    "title": "Mobile money and digital financial services",
+    "description": "Guidance on licensing, interoperability, competition remedies, and consumer safeguards for inclusive digital finance.",
+    "tags": ["Digital financial services", "Competition", "USSD pricing"]
+  },
+  {
+    "title": "Dispute resolution and competition policy",
+    "description": "Arbitration, mediation, and regulatory strategies that unlock competition and sustainable investment.",
+    "tags": ["Competition policy", "Dispute resolution"]
+  },
+  {
+    "title": "Digital transformation for governments",
+    "description": "Spectrum, OTT, cyber resilience, and digital trade reforms that align institutions with the data economy.",
+    "tags": ["Policy design", "Spectrum", "Cyber resilience"]
+  },
+  {
+    "title": "Commercial transactions & joint ventures",
+    "description": "Structuring cross-border investments, JV agreements, and strategic alliances for telecom and tech operators.",
+    "tags": ["Joint ventures", "M&A", "Infrastructure finance"]
+  }
+]
+

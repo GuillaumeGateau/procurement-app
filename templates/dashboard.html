@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>UNGM Daily Tenders</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f7f7f7; }
+    table { border-collapse: collapse; width: 100%; background: #fff; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background: #0c4a6e; color: #fff; }
+    tr:nth-child(even) { background: #f2f2f2; }
+  </style>
+</head>
+<body>
+<h1>UNGM Daily Tender Matches</h1>
+<p>Generated {{ generated }}</p>
+<table>
+  <thead>
+    <tr>
+      <th>Score</th>
+      <th>Title</th>
+      <th>Agency</th>
+      <th>Deadline</th>
+      <th>Type</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for notice in notices %}
+    <tr>
+      <td>{{ notice.fit_score }}</td>
+      <td>{{ notice.title }}</td>
+      <td>{{ notice.agency }}</td>
+      <td>{{ notice.deadline }}</td>
+      <td>{{ notice.procurement_type }}</td>
+      <td>{{ notice.status }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</body>
+</html>

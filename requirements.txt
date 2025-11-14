@@ -1,0 +1,16 @@
+python-dotenv
+pydantic>=2
+requests
+SQLAlchemy>=2
+alembic
+psycopg2-binary
+python-dateutil
+pytz
+tabulate
+jinja2
+tenacity
+PyYAML
+openai>=1.30.0
+pinecone>=7.0.0
+tiktoken
+pypdf

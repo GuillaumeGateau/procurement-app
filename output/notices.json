@@ -1,0 +1,752 @@
+[
+  {
+    "id": "MK-SAMPLE-001",
+    "title": "Mobile Money Interoperability & Competition Assessment in Rwanda",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Rwanda"
+      }
+    ],
+    "deadline": "2025-12-01T23:59:59Z",
+    "structuredScore": 65,
+    "totalScore": 84,
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Rwanda matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 65 and total score 84 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-002",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2025-12-04T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 86,
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 70 and total score 86 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-003",
+    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Vanuatu"
+      }
+    ],
+    "deadline": "2025-12-07T23:59:59Z",
+    "structuredScore": 85,
+    "totalScore": 82,
+    "raw_json": {
+      "semanticScore": 0.44,
+      "semanticMatches": [
+        {
+          "score": 0.44,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Vanuatu matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 85 and total score 82 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-004",
+    "title": "Data Protection and Privacy Regulatory Support for Mauritius",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Mauritius"
+      }
+    ],
+    "deadline": "2025-12-10T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 87,
+    "raw_json": {
+      "semanticScore": 0.36,
+      "semanticMatches": [
+        {
+          "score": 0.36,
+          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Mauritius matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 70 and total score 87 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-005",
+    "title": "Infrastructure Sharing Roadmap for Sierra Leone",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Sierra Leone"
+      }
+    ],
+    "deadline": "2025-12-13T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 88,
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Sierra Leone matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 69 and total score 88 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-006",
+    "title": "Infrastructure Sharing Roadmap for Sierra Leone",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Sierra Leone"
+      }
+    ],
+    "deadline": "2025-12-16T23:59:59Z",
+    "structuredScore": 74,
+    "totalScore": 84,
+    "raw_json": {
+      "semanticScore": 0.31,
+      "semanticMatches": [
+        {
+          "score": 0.31,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Sierra Leone matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 74 and total score 84 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-007",
+    "title": "Infrastructure Sharing Roadmap for Lesotho",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Lesotho"
+      }
+    ],
+    "deadline": "2025-12-19T23:59:59Z",
+    "structuredScore": 75,
+    "totalScore": 95,
+    "raw_json": {
+      "semanticScore": 0.43,
+      "semanticMatches": [
+        {
+          "score": 0.43,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Lesotho matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 75 and total score 95 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-008",
+    "title": "Data Protection and Privacy Regulatory Support for Mauritius",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Mauritius"
+      }
+    ],
+    "deadline": "2025-12-22T23:59:59Z",
+    "structuredScore": 67,
+    "totalScore": 91,
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Mauritius matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 67 and total score 91 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-009",
+    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Timor Leste"
+      }
+    ],
+    "deadline": "2025-12-25T23:59:59Z",
+    "structuredScore": 80,
+    "totalScore": 83,
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 80 and total score 83 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-010",
+    "title": "Data Protection and Privacy Regulatory Support for Malawi",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Malawi"
+      }
+    ],
+    "deadline": "2025-12-28T23:59:59Z",
+    "structuredScore": 77,
+    "totalScore": 87,
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Malawi matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 77 and total score 87 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-011",
+    "title": "Data Protection and Privacy Regulatory Support for Botswana",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Botswana"
+      }
+    ],
+    "deadline": "2025-12-31T23:59:59Z",
+    "structuredScore": 76,
+    "totalScore": 95,
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Botswana matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 76 and total score 95 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-012",
+    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Timor Leste"
+      }
+    ],
+    "deadline": "2026-01-03T23:59:59Z",
+    "structuredScore": 65,
+    "totalScore": 86,
+    "raw_json": {
+      "semanticScore": 0.41,
+      "semanticMatches": [
+        {
+          "score": 0.41,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 65 and total score 86 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-013",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2026-01-06T23:59:59Z",
+    "structuredScore": 74,
+    "totalScore": 85,
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 74 and total score 85 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-014",
+    "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Kenya"
+      }
+    ],
+    "deadline": "2026-01-09T23:59:59Z",
+    "structuredScore": 67,
+    "totalScore": 85,
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 67 and total score 85 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-015",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Senegal"
+      }
+    ],
+    "deadline": "2026-01-12T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 82,
+    "raw_json": {
+      "semanticScore": 0.38,
+      "semanticMatches": [
+        {
+          "score": 0.38,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 82 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-016",
+    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Fiji"
+      }
+    ],
+    "deadline": "2026-01-15T23:59:59Z",
+    "structuredScore": 79,
+    "totalScore": 91,
+    "raw_json": {
+      "semanticScore": 0.32,
+      "semanticMatches": [
+        {
+          "score": 0.32,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Fiji matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 79 and total score 91 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-017",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Senegal"
+      }
+    ],
+    "deadline": "2026-01-18T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 94,
+    "raw_json": {
+      "semanticScore": 0.41,
+      "semanticMatches": [
+        {
+          "score": 0.41,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 94 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-018",
+    "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Kenya"
+      }
+    ],
+    "deadline": "2026-01-21T23:59:59Z",
+    "structuredScore": 81,
+    "totalScore": 91,
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 91 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-019",
+    "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Kenya"
+      }
+    ],
+    "deadline": "2026-01-24T23:59:59Z",
+    "structuredScore": 82,
+    "totalScore": 91,
+    "raw_json": {
+      "semanticScore": 0.38,
+      "semanticMatches": [
+        {
+          "score": 0.38,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 82 and total score 91 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-020",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2026-01-27T23:59:59Z",
+    "structuredScore": 75,
+    "totalScore": 87,
+    "raw_json": {
+      "semanticScore": 0.39,
+      "semanticMatches": [
+        {
+          "score": 0.39,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 75 and total score 87 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-021",
+    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Timor Leste"
+      }
+    ],
+    "deadline": "2026-01-30T23:59:59Z",
+    "structuredScore": 85,
+    "totalScore": 90,
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 85 and total score 90 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-022",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2026-02-02T23:59:59Z",
+    "structuredScore": 82,
+    "totalScore": 95,
+    "raw_json": {
+      "semanticScore": 0.38,
+      "semanticMatches": [
+        {
+          "score": 0.38,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 82 and total score 95 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-023",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Senegal"
+      }
+    ],
+    "deadline": "2026-02-05T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 86,
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 86 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-024",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Kenya",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Kenya"
+      }
+    ],
+    "deadline": "2026-02-08T23:59:59Z",
+    "structuredScore": 80,
+    "totalScore": 82,
+    "raw_json": {
+      "semanticScore": 0.36,
+      "semanticMatches": [
+        {
+          "score": 0.36,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Kenya matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 80 and total score 82 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-025",
+    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Fiji"
+      }
+    ],
+    "deadline": "2026-02-11T23:59:59Z",
+    "structuredScore": 77,
+    "totalScore": 86,
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Fiji matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 77 and total score 86 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-026",
+    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-14T23:59:59Z",
+    "structuredScore": 68,
+    "totalScore": 87,
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 68 and total score 87 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-027",
+    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-17T23:59:59Z",
+    "structuredScore": 81,
+    "totalScore": 93,
+    "raw_json": {
+      "semanticScore": 0.43,
+      "semanticMatches": [
+        {
+          "score": 0.43,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 93 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-028",
+    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Vanuatu"
+      }
+    ],
+    "deadline": "2026-02-20T23:59:59Z",
+    "structuredScore": 65,
+    "totalScore": 94,
+    "raw_json": {
+      "semanticScore": 0.43,
+      "semanticMatches": [
+        {
+          "score": 0.43,
+          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Vanuatu matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 65 and total score 94 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-029",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Senegal"
+      }
+    ],
+    "deadline": "2026-02-23T23:59:59Z",
+    "structuredScore": 81,
+    "totalScore": 84,
+    "raw_json": {
+      "semanticScore": 0.44,
+      "semanticMatches": [
+        {
+          "score": 0.44,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 84 exceed our 80+ bar."
+    }
+  },
+  {
+    "id": "MK-SAMPLE-030",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Ghana",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-26T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 88,
+    "raw_json": {
+      "semanticScore": 0.39,
+      "semanticMatches": [
+        {
+          "score": 0.39,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+        }
+      ],
+      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 69 and total score 88 exceed our 80+ bar."
+    }
+  }
+]

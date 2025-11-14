@@ -1,0 +1,15 @@
+semantic:
+  top_k: 5
+  min_similarity: 0.30
+structured:
+  min_score: 40
+total:
+  min_score: 40
+persistence:
+  store_all_notices: false
+  log_evaluations: true
+  evaluation_log_path: data/evaluations.db
+cache:
+  skip_if_recent_days: 7
+  enable_semantic: true
+

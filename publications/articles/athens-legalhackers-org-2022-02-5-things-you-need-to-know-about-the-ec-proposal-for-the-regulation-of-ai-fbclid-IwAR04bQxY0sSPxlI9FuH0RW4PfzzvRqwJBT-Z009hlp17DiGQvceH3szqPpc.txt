@@ -1,0 +1,65 @@
+5 Things you need to know about the EC Proposal for the Regulation of AI | Athens Legal Hackers
+Skip to content
+Menu
+Home
+Events
+Gallery
+Our Member's Posts
+Facebook
+Instagram
+Twitter
+Linkedin
+Search…
+Search
+Athens
+Legal Hackers
+When Law met Technology, Legal Hackers were born.
+Join Us
+Home
+»
+5 Things you need to know about the EC Proposal for the Regulation of AI
+5 Things you need to know about the EC Proposal for the Regulation of AI
+By
+Athens Legal Hackers
+on
+February 14, 2022
+Posted in
+Our Member's Posts
+by our member,
+Christina Heliotis
+, CIPP/E, LL.M
+In April 2021, the European Commission (“EC”) proposed a set of new rules and actions that aim to pave the way towards a more ethical and trustworthy use of Artificial Intelligence (“AI”). Here are the five things you need to know:
+1. The EU claims its seat in the AI discussion table: This is the first time that the EU is leading the discussions on AI policy by introducing the first-ever legal framework, accompanied by the Coordinated Plan with the Member States. The proposal bans specific uses of AI and regulates other AI activities based on a “the higher the risk, the stricter the rule” approach. This initiative is consistent with the EU’s policy approach of adopting Regulation for the digital space and Big Tech – an approach that constitutes a direct challenge to Silicon Valley’s shared view that law should leave emerging technology alone.
+2. The banned and the risky: The proposal imposes a complete ban on any use of AI that is a clear threat to the security and fundamental rights of EU citizens, including uses of AI that manipulate human behaviour and systems that allow social-credit scoring. “Anything considered a clear threat to EU citizens will be banned: from social scoring by governments to toys using voice assistance that encourages dangerous behaviour of children. ”The use of AI in face recognition applications, employment, asylum decisions, self-driving cars and educational activities are considered “high risk”, which means that they can be legitimately used only when strict criteria or specific purposes are in place. Those criteria include intended purpose, the number of potentially affected people, and the irreversibility of harm. For example, face recognition systems by law enforcement are allowed only for anti-terrorism operations, public security purposes, and to find missing children. In addition, all high-risk categories must undergo a conformity assessment and maintain high-quality datasets, which allow traceability of results.
+3. Light regulation and free use: The Proposal provides that “limited risk” uses will be “subject to minimal transparency obligations”. Applications under this category should include transparency mechanisms that allow users to make informed decisions and be aware that they are interacting with a machine. Such applications include chatbots. Other AI applications, such as spam filters and video games, are not affected by the new rules, and companies are free to use them with no restrictions or conditions. The European Commission believes most AI applications will fall in this category.
+4. Conspicuous by their absence: Despite the regulatory innovations and the well thought risk-based structure, the proposal appears to have some surprising omissions. It lacks a general requirement to inform people who are subjected to algorithmic assessments, and little attention is paid to algorithmic fairness in the Regulation’s text. In addition, the Regulation does not get very far in defining the oversight and auditing mechanisms and how they will work. The conformity assessments are described as an internal process, as there is no explicit requirement to produce a set of documents that the public or a regulator could review. Experts have stated that this Regulation
+can be treated as a general set of rules that will then be specified to recognize and address the nuanced, diverse aspects of different AI applications.
+5. The practical impact: This EC proposal is nothing but the beginning of a lengthy regulatory process and the initiation of a thorny discussion around AI regulation. As a next step, the European Parliament and the member states will adopt the Commission’s proposal. Once adopted, the new legal framework will be directly applicable throughout the EU. Most importantly, the framework will impact individuals, companies, and organizations even outside the EU, as long as their output is used within the EU. Thus, the US and China, being homes to the most significant AI companies, may need to consider readjusting their operations in the future. Echoing the NGO European Digital Rights (EDRi), this proposed Regulation is a “step in the right direction”. The rest remains to be
+seen.
+Print:
+Email this post
+Tweet this post
+Like this post
+Share this post on LinkedIn
+Athens
+Legal Hackers
+When Law met Technology, Legal Hackers were born.
+Join Us
+Find us on our Social Media
+Youtube
+Facebook
+Instagram
+Twitter
+Linkedin
+Disclaimer
+Privacy Policy
+Cookies Policy
+Terms of Use
+Events
+Copyright © 2025, Legal Hackers. All Rights Reserved.
+Law blog design & platform by LexBlog
+LexBlog Logo
+This website uses only absolutely necessary cookies. For more information, please visit our
+Privacy Policy
+.
+Close

@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Rory Macmillan",
+    "email": "rory@macmillankeck.pro",
+    "contact": "Telephone: +41 79 752 36 22",
+    "expertise": [
+      "Electronic communications law and regulation",
+      "Data protection and privacy law",
+      "Digital identification systems",
+      "Digital financial services regulation",
+      "Privatisation, investment, financing and outsourcing",
+      "Mediator, arbitrator, expert adjudicator and expert witness"
+    ],
+    "notable": [
+      "Founder, Macmillan & Co. which became Macmillan Keck Accredited mediator of the UK\u2019s Centre for Effective Dispute Resolution (CEDR) Nominated for the CEDR Award for Excellence for contribution to dispute resolution in electronic communications sector Member Chartered Institute of Arbitrators"
+    ],
+    "id": "Rory"
+  },
+  {
+    "name": "Richard Keck",
+    "email": "richard@macmillankeck.pro",
+    "contact": "Telephone: +1 404 348 3333",
+    "expertise": [
+      "Telecommunications and digital services",
+      "Corporate, commercial and finance",
+      "Joint ventures and public-private partnerships",
+      "International transactions and investments",
+      "Law and economics"
+    ],
+    "notable": [
+      "Co-Founder of Macmillan Keck Experience with legal systems in over 85 countries Built an electric guitar and color television in junior high school Raised cows and goats in senior high school Always ready for the next adventure"
+    ],
+    "id": "Richard"
+  },
+  {
+    "name": "Jason Blechman",
+    "email": "jasonblechman@macmillankeck.pro",
+    "contact": "Telephone: +1 917 968 1571",
+    "expertise": [
+      "Data protection and digital identification",
+      "Digital financial services",
+      "Telecommunications",
+      "Competition",
+      "Legislative and regulatory drafting",
+      "Commercial transactions"
+    ],
+    "notable": [
+      "Publications on regulation of digital financial services in Africa Experience drafting laws and regulations governing data protection, cybersecurity and competition Volunteer firefighter"
+    ],
+    "id": "Jason"
+  },
+  {
+    "name": "Scott Garvey",
+    "email": "scottgarvey@macmillankeck.pro",
+    "contact": "Telephone: +1 646 954 5381",
+    "expertise": [
+      "Telecommunications law, regulation and transactions",
+      "International and corporate tax",
+      "Legislative drafting",
+      "Public administration",
+      "Economic development"
+    ],
+    "notable": [
+      "Pohnpei State Attorney General Executive Editor, The Virginia Law Review Order of the Coif"
+    ],
+    "id": "Scott"
+  },
+  {
+    "name": "Lale Tuzmen Aktas",
+    "email": "laletuzmen@macmillankeck.pro",
+    "contact": "Telephone: +1 929 354 9955",
+    "expertise": [
+      "Corporate and business transactions",
+      "Entrepreneurs and emerging companies",
+      "Digital financial services, digital identification systems, data protection law and regulation",
+      "Telecommunications law, regulation and transactions"
+    ],
+    "notable": [
+      "Director, Alumni Association of the American Robert College High School, Istanbul (US Chapter) Volunteer, American Turkish Society, New York Graduate Editor, NYU School of Law Journal of International Law and Policy"
+    ],
+    "id": "Lale"
+  },
+  {
+    "name": "Christina Heliotis",
+    "email": "christinaheliotis@macmillankeck.pro",
+    "contact": "Telephone: (+1) 202-4518395",
+    "expertise": [
+      "Data protection and regulation, data privacy",
+      "Cybersecurity, public sector digital transformation, digital governance",
+      "Corporate governance, corporate law"
+    ],
+    "notable": [
+      "8 YEARS OF EXPERIENCE IN INTERNATIONAL ORGANIZATIONS AND MULTILATERAL INVESTMENT BANKS FELLOW AT THE CENTRE OF GLOBAL GOVERNANCE, GENEVA GRADUATE INSTITUTE, ABSTRACT PAINTER"
+    ],
+    "id": "Christina"
+  }
+]
