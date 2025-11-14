@@ -11,7 +11,7 @@ const NAV_LINKS = [
   { href: "/achievements", label: "Achievements" },
   { href: "/publications", label: "Publications" },
   { href: "/opportunities", label: "Opportunities" },
-  { href: "/why-engage", label: "The Road Ahead", icon: "↗" },
+  { href: "/the-road-ahead", label: "The Road Ahead", icon: "↗" },
 ];
 
 type AppLayoutProps = {

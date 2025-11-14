@@ -103,6 +103,57 @@ def summarise_pdf(path: Path) -> Optional[str]:
     return None
 
 
+def extract_pdf_title(path: Path) -> Optional[str]:
+    try:
+        reader = PdfReader(path)
+    except Exception:
+        return None
+
+    metadata = getattr(reader, "metadata", None) or {}
+    meta_title = None
+    if isinstance(metadata, dict):
+        meta_title = metadata.get("/Title") or metadata.get("title")
+    else:
+        meta_title = getattr(metadata, "title", None)
+    if meta_title:
+        cleaned_meta = meta_title.strip()
+        if cleaned_meta and len(cleaned_meta.split()) > 1 and not cleaned_meta.lower().startswith("jibfl"):
+            return cleaned_meta
+
+    def clean_candidate(raw: str) -> Optional[str]:
+        cleaned = re.sub(r"\s+", " ", raw).strip(" .,-")
+        if not cleaned:
+            return None
+        if len(cleaned) < 8 or len(cleaned) > 140:
+            return None
+        lowered = cleaned.lower()
+        if lowered.startswith("butterworths") or lowered.startswith("joint venture agreements"):
+            return None
+        if lowered.startswith("feature"):
+            parts = cleaned.split(" ", 1)
+            cleaned = parts[1].strip() if len(parts) > 1 else cleaned
+        return cleaned
+
+    for page in reader.pages[:2]:
+        try:
+            text = page.extract_text() or ""
+        except Exception:
+            continue
+        lines = [line.strip() for line in text.splitlines()]
+        for line in lines:
+            if not line:
+                continue
+            feature_match = re.search(r"Feature\s+(.+)", line, re.IGNORECASE)
+            if feature_match:
+                candidate = clean_candidate(feature_match.group(1))
+                if candidate:
+                    return candidate
+            candidate = clean_candidate(line)
+            if candidate:
+                return candidate
+    return None
+
+
 def summarise_article(path: Path) -> tuple[str, Optional[str]]:
     html = path.read_text(encoding="utf-8")
     soup = BeautifulSoup(html, "html.parser")
@@ -124,7 +175,7 @@ def build_catalog() -> List[PublicationRecord]:
     # PDFs
     for item in load_manifest(PUBLICATIONS_DIR / "manifest.json"):
         file_path = BASE_DIR / item["file"]
-        title = slug_to_title(file_path.name)
+        title = extract_pdf_title(file_path) or slug_to_title(file_path.name)
         year = extract_year(file_path.name, item.get("url", ""))
         summary = condense_text(summarise_pdf(file_path))
         records.append(PublicationRecord(title=title, url=item["url"], summary=summary, year=year, type="pdf"))
