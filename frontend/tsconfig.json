@@ -29,6 +29,9 @@
       "@ui/*": [
         "components/ui/*"
       ],
+      "@visuals/*": [
+        "components/visuals/*"
+      ],
       "@lib/*": [
         "lib/*"
       ],
@@ -37,6 +40,9 @@
       ],
       "@content/*": [
         "../content/*"
+      ],
+      "@visuals/*": [
+        "components/visuals/*"
       ]
     },
     "plugins": [

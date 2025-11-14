@@ -10,6 +10,10 @@ type NoticeRecord = {
   agency?: string;
   procurement_type?: string;
   countries?: { country?: string; countryCode?: string }[];
+  countryCode?: string;
+  region?: string;
+  sector?: string;
+  technologies?: string[];
   deadline?: string;
   fit_score?: number;
   structuredScore?: number;
@@ -17,6 +21,8 @@ type NoticeRecord = {
   budget_min?: number;
   budget_max?: number;
   currency?: string;
+  searchEmbedding?: number[];
+  searchText?: string;
   raw_json?: Record<string, unknown>;
 };
 
@@ -42,6 +48,8 @@ type ApiNotice = {
   title: string;
   agency?: string;
   country?: string;
+  countryCode?: string;
+  region?: string;
   procurementType?: string;
   deadline?: string;
   totalScore: number;
@@ -53,7 +61,10 @@ type ApiNotice = {
   fitCons?: string[];
   referenceProjects?: ReferenceProject[];
   documents?: DocumentLink[];
-  budget?: { currency?: string; min?: number; max?: number };
+  sector?: string;
+  technologies?: string[];
+  searchEmbedding?: number[];
+  budget?: { currency?: string; min?: number; max?: number; isEstimated?: boolean; estimateSource?: string };
 };
 
 export default function handler(req: NextApiRequest, res: NextApiResponse<{ notices: ApiNotice[] } | { error: string }>) {
@@ -75,7 +86,9 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<{ noti
     const fitPros = (notice.raw_json?.fitPros as string[] | undefined) ?? [];
     const fitCons = (notice.raw_json?.fitCons as string[] | undefined) ?? [];
     const documents = (notice.raw_json?.documents as DocumentLink[] | undefined) ?? [];
-    const budgetFromRaw = notice.raw_json?.budget as { currency?: string; min?: number; max?: number } | undefined;
+    const budgetFromRaw = notice.raw_json?.budget as
+      | { currency?: string; min?: number; max?: number; isEstimated?: boolean; estimateSource?: string }
+      | undefined;
 
     return {
       id: notice.id,
@@ -83,6 +96,8 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<{ noti
       agency: notice.agency,
       procurementType: notice.procurement_type,
       country: notice.countries?.[0]?.country ?? notice.countries?.[0]?.countryCode,
+      countryCode: notice.countryCode ?? notice.countries?.[0]?.countryCode,
+      region: notice.region,
       deadline: notice.deadline,
       totalScore: notice.totalScore ?? notice.fit_score ?? 0,
       structuredScore: notice.structuredScore ?? 0,
@@ -93,11 +108,17 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<{ noti
       fitCons,
       referenceProjects,
       documents,
-      budget: budgetFromRaw ?? {
-        currency: notice.currency,
-        min: notice.budget_min,
-        max: notice.budget_max,
-      },
+      sector: notice.sector,
+      technologies: notice.technologies ?? [],
+      searchEmbedding: notice.searchEmbedding,
+      budget:
+        budgetFromRaw ??
+        {
+          currency: notice.currency ?? undefined,
+          min: notice.budget_min ?? undefined,
+          max: notice.budget_max ?? undefined,
+          isEstimated: false,
+        },
     };
   });
 

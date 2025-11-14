@@ -6,12 +6,53 @@ from __future__ import annotations
 import json
 import random
 from dataclasses import dataclass
+import math
+import os
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
+try:
+    from openai import OpenAI
+except ImportError:  # pragma: no cover - optional dependency for tests
+    OpenAI = None
+
+EMBED_DIMENSION = 1536
 PROJECTS_PATH = Path("data/macmillan_keck_projects.json")
 PUBLICATIONS_MANIFEST = Path("publications/manifest.json")
+
+# Minimal mapping of countries we reference in the templates
+COUNTRY_META: Dict[str, Dict[str, str]] = {
+    "Kenya": {"code": "KEN", "region": "Africa"},
+    "Uganda": {"code": "UGA", "region": "Africa"},
+    "Tanzania": {"code": "TZA", "region": "Africa"},
+    "Ethiopia": {"code": "ETH", "region": "Africa"},
+    "Rwanda": {"code": "RWA", "region": "Africa"},
+    "Ghana": {"code": "GHA", "region": "Africa"},
+    "Nigeria": {"code": "NGA", "region": "Africa"},
+    "Senegal": {"code": "SEN", "region": "Africa"},
+    "Côte d’Ivoire": {"code": "CIV", "region": "Africa"},
+    "Samoa": {"code": "WSM", "region": "Asia-Pacific"},
+    "Vanuatu": {"code": "VUT", "region": "Asia-Pacific"},
+    "Fiji": {"code": "FJI", "region": "Asia-Pacific"},
+    "Timor Leste": {"code": "TLS", "region": "Asia-Pacific"},
+    "Malawi": {"code": "MWI", "region": "Africa"},
+    "Lesotho": {"code": "LSO", "region": "Africa"},
+    "Liberia": {"code": "LBR", "region": "Africa"},
+    "Sierra Leone": {"code": "SLE", "region": "Africa"},
+    "Botswana": {"code": "BWA", "region": "Africa"},
+    "Zambia": {"code": "ZMB", "region": "Africa"},
+    "Mauritius": {"code": "MUS", "region": "Africa"},
+    "Namibia": {"code": "NAM", "region": "Africa"},
+}
+
+
+EMBED_CLIENT = None
+if OpenAI and os.getenv("OPENAI_API_KEY"):
+    try:
+        EMBED_CLIENT = OpenAI()
+    except Exception:  # pragma: no cover - defensive
+        EMBED_CLIENT = None
 
 
 def load_projects() -> Dict[str, Dict[str, str]]:
@@ -46,6 +87,8 @@ class Template:
     agency: str
     procurement_type: str
     countries: List[str]
+    sector: str
+    technologies: List[str]
     semantic_title: str
     semantic_url: str
     summary_focus: str
@@ -62,6 +105,8 @@ TEMPLATES: List[Template] = [
         agency="UNICEF",
         procurement_type="RFP",
         countries=["Kenya", "Uganda", "Tanzania", "Ethiopia", "Rwanda"],
+        sector="Health supply chains",
+        technologies=["Cold chain", "Digital logistics"],
         semantic_title="Bangalink Briefing Paper To Bb 161004",
         semantic_url=load_publication_url("Bangalink_briefing_paper_to_BB_161004.pdf"),
         summary_focus="cold chain and vaccine logistics",
@@ -87,6 +132,8 @@ TEMPLATES: List[Template] = [
         agency="WHO",
         procurement_type="EOI",
         countries=["Ghana", "Nigeria", "Senegal", "Côte d’Ivoire"],
+        sector="Health markets & pricing",
+        technologies=["Analytics", "Market diagnostics"],
         semantic_title="Competition dynamics in mobile money markets in Tanzania",
         semantic_url=load_publication_url("Macmillan-OECD-Competition-for-the-market-2019.pdf"),
         summary_focus="health supply chains and pricing transparency",
@@ -111,6 +158,8 @@ TEMPLATES: List[Template] = [
         agency="UNDP",
         procurement_type="RFP",
         countries=["Samoa", "Vanuatu", "Fiji", "Timor Leste"],
+        sector="Digital identity & data governance",
+        technologies=["Digital ID", "Privacy"],
         semantic_title="Expert Group Report on Digital Identification Governance",
         semantic_url=load_publication_url("ExpertGroupReportFeb2018.pdf"),
         summary_focus="digital identification governance",
@@ -135,6 +184,8 @@ TEMPLATES: List[Template] = [
         agency="World Bank",
         procurement_type="ITB",
         countries=["Malawi", "Lesotho", "Liberia", "Sierra Leone", "Botswana"],
+        sector="Broadband & infrastructure",
+        technologies=["Fiber", "Passive sharing"],
         semantic_title="Fostering cross-sector infrastructure sharing for broadband",
         semantic_url=load_publication_url("Competition-and-regulatory-disputes-3-614-2285.pdf"),
         summary_focus="infrastructure sharing policy",
@@ -157,6 +208,8 @@ TEMPLATES: List[Template] = [
         agency="UN Capital Development Fund",
         procurement_type="RFP",
         countries=["Tanzania", "Kenya", "Rwanda", "Ghana", "Zambia"],
+        sector="Digital financial services",
+        technologies=["Interoperability", "Payments"],
         semantic_title="Competition dynamics in mobile money markets in Tanzania",
         semantic_url=load_publication_url("BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"),
         summary_focus="digital financial services regulation",
@@ -179,6 +232,8 @@ TEMPLATES: List[Template] = [
         agency="African Union",
         procurement_type="EOI",
         countries=["Malawi", "Mauritius", "Botswana", "Namibia", "Ghana"],
+        sector="Data protection & AI policy",
+        technologies=["Privacy", "AI governance"],
         semantic_title="Big Data, Machine Learning, Consumer Protection and Privacy",
         semantic_url=load_publication_url("Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"),
         summary_focus="data protection operations",
@@ -203,6 +258,76 @@ TEMPLATES: List[Template] = [
 
 def format_currency(value: float) -> float:
     return round(value / 1000) * 1000
+
+
+def build_budget(
+    base_min: int,
+    base_max: int,
+    currency: str,
+    reference_projects: List[Dict[str, str]],
+) -> Dict[str, Optional[object]]:
+    """
+    Decide whether to provide an explicit budget or an estimated range derived from similar work.
+    """
+    include_explicit = random.random() > 0.35
+    estimate_source = None
+    if reference_projects:
+        estimate_source = reference_projects[0]["title"]
+
+    budget_payload = {
+        "currency": currency,
+        "min": base_min,
+        "max": base_max,
+        "isEstimated": not include_explicit,
+        "estimateSource": estimate_source,
+    }
+
+    if include_explicit:
+        return {
+            "raw_fields": {
+                "budget_min": base_min,
+                "budget_max": base_max,
+                "currency": currency,
+            },
+            "display": budget_payload,
+        }
+
+    return {
+        "raw_fields": {
+            "budget_min": None,
+            "budget_max": None,
+            "currency": None,
+        },
+        "display": budget_payload,
+    }
+
+
+def compute_embedding(text: str) -> List[float]:
+    if EMBED_CLIENT:
+        try:
+            model_name = os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small")
+            response = EMBED_CLIENT.embeddings.create(model=model_name, input=[text])
+            embedding = response.data[0].embedding
+            if len(embedding) == EMBED_DIMENSION:
+                return embedding
+        except Exception as exc:  # pragma: no cover - defensive logging
+            print(f"[warn] embedding failed ({exc}); using fallback vector.")
+    random.seed(hash(text) & 0xFFFFFFFF)
+    return [random.uniform(-1.0, 1.0) for _ in range(EMBED_DIMENSION)]
+
+
+def build_search_text(notice: Dict[str, object]) -> str:
+    parts = [
+        notice.get("title", ""),
+        notice.get("agency", ""),
+        notice.get("sector", ""),
+        ", ".join(notice.get("technologies", [])),
+        notice.get("raw_json", {}).get("fitSummary", ""),
+    ]
+    for project in notice.get("raw_json", {}).get("referenceProjects", []) or []:
+        parts.append(project.get("title", ""))
+        parts.append(project.get("summary", ""))
+    return " | ".join(filter(None, parts))
 
 
 def generate_opportunities(count: int = 50):
@@ -250,18 +375,31 @@ def generate_opportunities(count: int = 50):
 
         cons = [c.format(country=country) for c in template.cons_templates]
 
+        budget_info = build_budget(
+            int(budget_low),
+            int(budget_high),
+            "USD",
+            reference_projects,
+        )
+
+        country_meta = COUNTRY_META.get(country, {"code": None, "region": "Global"})
+
         notice = {
             "id": f"MK-SAMPLE-{idx+1:03d}",
             "title": template.title.format(country=country),
             "agency": template.agency,
             "procurement_type": template.procurement_type,
             "countries": [{"country": country}],
+            "countryCode": country_meta["code"],
+            "region": country_meta["region"],
+            "sector": template.sector,
+            "technologies": template.technologies,
             "deadline": deadline,
             "structuredScore": structured_score,
             "totalScore": total_score,
-            "budget_min": int(budget_low),
-            "budget_max": int(budget_high),
-            "currency": "USD",
+            "budget_min": budget_info["raw_fields"]["budget_min"],
+            "budget_max": budget_info["raw_fields"]["budget_max"],
+            "currency": budget_info["raw_fields"]["currency"],
             "raw_json": {
                 "semanticScore": semantic_score,
                 "semanticMatches": [
@@ -276,11 +414,7 @@ def generate_opportunities(count: int = 50):
                 "fitPros": pros,
                 "fitCons": cons,
                 "referenceProjects": reference_projects,
-                "budget": {
-                    "currency": "USD",
-                    "min": int(budget_low),
-                    "max": int(budget_high),
-                },
+                "budget": budget_info["display"],
                 "documents": [
                     {
                         "title": template.semantic_title,
@@ -289,6 +423,8 @@ def generate_opportunities(count: int = 50):
                 ],
             },
         }
+        notice["searchText"] = build_search_text(notice)
+        notice["searchEmbedding"] = compute_embedding(notice["searchText"])
         notices.append(notice)
     return notices
 

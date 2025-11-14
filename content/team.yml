@@ -3,6 +3,7 @@
   email: rory@macmillankeck.pro
   phone: "+41 79 752 36 22"
   photo: /assets/team/rory-macmillan.jpg
+  linkedin: https://www.linkedin.com/in/rorymacmillan/
   expertise:
     - Electronic communications law and regulation
     - Data protection and privacy law
@@ -10,32 +11,53 @@
     - Digital financial services regulation
     - Privatisation, investment, financing and outsourcing
     - Mediation and expert adjudication
+  credentials:
+    - LLB (1st Class Honours, University of Edinburgh)
+    - LLM (Yale Law School), Fulbright & Rotary Scholar
   notable:
-    - Founder of Macmillan & Co., now Macmillan Keck
-    - Accredited mediator (CEDR) and Chartered Institute of Arbitrators member
-    - Recognised for dispute resolution leadership in telecom sector
+    - Founder of Macmillan & Co., which became Macmillan Keck
+    - Accredited mediator of the UK’s Centre for Effective Dispute Resolution (CEDR)
+    - Nominated for the CEDR Award for Excellence for dispute resolution in electronic communications
+    - Member Chartered Institute of Arbitrators
+  formerly_with:
+    - Debevoise & Plimpton, New York and London
+  quote:
+    text: "One reason why I like working with Macmillan Keck is that they are not afraid to say things that are iconoclastic and challenging."
+    attribution: "World Bank official referring to a digital economy project led by Rory"
 
 - name: Richard Keck
   role: Partner
   email: richard@macmillankeck.pro
   phone: "+1 404 348 3333"
   photo: /assets/team/richard-keck.jpg
+  linkedin: https://www.linkedin.com/in/richard-keck-a6b1ba17/
   expertise:
     - Telecommunications and digital services
     - Corporate, commercial and finance
     - Joint ventures and public-private partnerships
     - International transactions and investments
     - Law and economics
+  credentials:
+    - JD (University of Virginia School of Law)
+    - BA Economics & Mathematics (Indiana University)
   notable:
     - Co-founder of Macmillan Keck with experience in 85+ jurisdictions
     - Structured complex telecom and infrastructure ventures globally
     - Advisor to governments and operators on market liberalization
+  formerly_with:
+    - Duane Morris LLP, Atlanta and New York, 2005-2009
+    - Troutman Sanders LLP, Atlanta, 1996-2005
+    - Kilpatrick & Cody, Atlanta, Brussels, London, 1985-1996
+  quote:
+    text: "Richard’s advice combines commercial realism with deep regulatory knowledge—he unlocks outcomes under pressure."
+    attribution: "Senior executive, multinational telecom group"
 
 - name: Jason Blechman
   role: Counsel
   email: jasonblechman@macmillankeck.pro
   phone: "+1 917 968 1571"
   photo: /assets/team/jason-blechman.jpg
+  linkedin: https://www.linkedin.com/in/jason-blechman-240a951a/
   expertise:
     - Data protection and digital identification
     - Digital financial services
@@ -43,53 +65,96 @@
     - Competition and policy reform
     - Legislative and regulatory drafting
     - Commercial transactions
+  credentials:
+    - JD (New York University School of Law)
+    - BA Economics & Political Science (Binghamton University)
   notable:
     - Publications on fintech regulation across Africa and Asia
     - Drafted data protection, cybersecurity, and competition reforms
     - Volunteer firefighter; trusted advisor on inclusive finance
+  formerly_with:
+    - Milbank LLP (formerly Milbank, Tweed, Hadley & McCloy LLP), New York
+    - Duane Morris LLP, New York
+  quote:
+    text: "Jason brings clarity to complex regulatory mandates—our teams move faster with him in the room."
+    attribution: "Head of Regulatory Affairs, leading mobile wallet"
 
 - name: Scott Garvey
   role: Counsel
   email: scottgarvey@macmillankeck.pro
   phone: "+1 646 954 5381"
   photo: /assets/team/scott-garvey.jpg
+  linkedin: https://www.linkedin.com/in/scott-garvey-94916433/
   expertise:
     - Telecommunications law and transactions
     - International and corporate tax
     - Legislative drafting
     - Public administration
     - Economic development
+  credentials:
+    - JD (University of Virginia School of Law), Order of the Coif
+    - BA Political Science (University of New Mexico)
   notable:
     - Former Attorney General of Pohnpei State
     - Executive Editor, Virginia Law Review; Order of the Coif
     - Leads telecom liberalization and infrastructure policy initiatives
+  formerly_with:
+    - Pohnpei Utilities Corporation / FSM Department of Finance / Pohnpei State Government, Micronesia
+    - Pohnpei State Government, Micronesia
+    - DuBoff Dorband Cushing & King, Portland, Oregon, USA
+    - Sullivan & Cromwell, New York
+  quote:
+    text: "Scott orchestrates complex spectrum and tax issues with uncommon pragmatism."
+    attribution: "CEO, Pacific telecom operator"
 
 - name: Lale Tuzmen Aktas
   role: Counsel
   email: laletuzmen@macmillankeck.pro
   phone: "+1 929 354 9955"
   photo: /assets/team/lale-tuzmen-aktas.jpg
+  linkedin: https://www.linkedin.com/in/lale-tuzmen/
   expertise:
     - Corporate and technology transactions
     - Entrepreneurs and emerging companies
     - Digital financial services and data protection
     - Telecommunications regulation
+  credentials:
+    - LLM (New York University), International Business Regulation
+    - LLB (Koç University, Istanbul)
   notable:
     - Director, Robert College Alumni Association (US Chapter)
     - Contributor to Turkish e-commerce and biometric regulation
     - Graduate Editor, NYU Journal of International Law & Policy
+  formerly_with:
+    - Norton Rose Fulbright US LLP, New York
+    - Paksoy, Istanbul
+  quote:
+    text: "Lale fuses commercial insight with regulatory fluency—startups and incumbents trust her to ship quickly."
+    attribution: "Founder, digital commerce scale-up"
 
 - name: Christina Heliotis
   role: Counsel
   email: christinaheliotis@macmillankeck.pro
   phone: "+1 202 451 8395"
   photo: /assets/team/christina-heliotis.jpg
+  linkedin: https://www.linkedin.com/in/christinadchelioti-heliotis/
   expertise:
     - Data governance and privacy
     - Cybersecurity and digital transformation
     - Corporate governance
+  credentials:
+    - LLM (Geneva Graduate Institute), International Law
+    - LLB (University of Athens)
   notable:
     - Experience with the World Bank, IFC, and EBRD
     - Fellow, Centre of Global Governance, Geneva Graduate Institute
     - Author on AI regulation, ESG privacy, and digital justice systems
+  formerly_with:
+    - International Finance Corporation (IFC)
+    - World Bank
+    - European Bank for Reconstruction and Development
+    - PPT Legal (formerly Vgenopoulos & Partners)
+  quote:
+    text: "Christina’s strategic privacy advice is grounded in field-level implementation—she bridges HQ insight and frontline delivery."
+    attribution: "Chief Digital Officer, international development organisation"
 

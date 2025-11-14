@@ -37,6 +37,7 @@ class Notice(Base):
     currency = Column(String(10))
     raw_json = Column(JSON)
     fit_score = Column(Integer)
+    search_embedding = Column(JSON)
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 

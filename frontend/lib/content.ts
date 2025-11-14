@@ -30,8 +30,15 @@ export type TeamMember = {
   email?: string;
   phone?: string;
   photo?: string;
+  linkedin?: string;
   expertise: string[];
+  credentials?: string[];
+  formerly_with?: string[];
   notable?: string[];
+  quote?: {
+    text: string;
+    attribution?: string;
+  };
 };
 
 export type Project = {

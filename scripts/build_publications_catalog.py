@@ -68,6 +68,16 @@ def extract_year(*candidates: str) -> Optional[int]:
     return None
 
 
+def condense_text(text: Optional[str], max_len: int = 260) -> Optional[str]:
+    if not text:
+        return None
+    cleaned = " ".join(text.split())
+    if len(cleaned) <= max_len:
+        return cleaned
+    truncated = cleaned[:max_len].rsplit(" ", 1)[0]
+    return truncated + "…"
+
+
 def summarise_pdf(path: Path) -> Optional[str]:
     try:
         reader = PdfReader(path)
@@ -116,13 +126,14 @@ def build_catalog() -> List[PublicationRecord]:
         file_path = BASE_DIR / item["file"]
         title = slug_to_title(file_path.name)
         year = extract_year(file_path.name, item.get("url", ""))
-        summary = summarise_pdf(file_path)
+        summary = condense_text(summarise_pdf(file_path))
         records.append(PublicationRecord(title=title, url=item["url"], summary=summary, year=year, type="pdf"))
 
     # Articles
     for item in load_manifest(PUBLICATIONS_DIR / "articles" / "manifest.json"):
         html_path = BASE_DIR / item["html_file"]
         title, summary = summarise_article(html_path)
+        summary = condense_text(summary)
         year = extract_year(item.get("url", ""), html_path.name)
         records.append(PublicationRecord(title=title, url=item["url"], summary=summary, year=year, type="article"))
 

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Hero } from "@sections/Hero";
 import { ExpertiseGrid } from "@sections/ExpertiseGrid";
 import { ProjectsShowcase } from "@sections/ProjectsShowcase";
@@ -13,6 +12,7 @@ import {
   Project,
   Publication,
 } from "@lib/content";
+import { HeroVisual } from "@visuals/HeroVisual";
 
 const heroContent = loadYaml<HeroContent>("homepage/hero.yml");
 const expertiseItems = loadJson<ExpertiseItem[]>("homepage/expertise.json");
@@ -26,7 +26,7 @@ export default function HomePage() {
       <Hero content={heroContent} />
 
       <section className="relative">
-        <div className="container-responsive grid gap-10 lg:grid-cols-[1.2fr_0.8fr]">
+        <div className="container-responsive grid gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:items-stretch">
           <div className="space-y-6">
             <div className="section-divider" />
             <h2 className="text-3xl font-heading text-slate">Global practice with local insight</h2>
@@ -35,8 +35,8 @@ export default function HomePage() {
               telecommunications operators, fintech innovators, regulators, and development partners design and
               implement modern legal frameworks.
             </p>
-            <div className="rounded-3xl border border-white/50 bg-white/90 p-6 shadow-card">
-              <ul className="space-y-3 text-sm text-muted">
+            <div className="rounded-3xl border border-white/50 bg-white/90 p-6 shadow-card lg:flex lg:flex-col lg:justify-center lg:gap-4 lg:p-8 lg:min-h-[320px]">
+              <ul className="space-y-4 text-base text-muted lg:text-lg">
                 <li>
                   <strong className="text-slate">Digital Financial Services:</strong> market access, USSD pricing,
                   interoperability, consumer protection, and competition.
@@ -52,17 +52,7 @@ export default function HomePage() {
               </ul>
             </div>
           </div>
-          <div className="relative flex justify-center">
-            <div className="absolute inset-0 -translate-y-6 translate-x-4 rounded-full bg-ocean/10 blur-3xl" />
-            <Image
-              src="/assets/hero-tower.jpg"
-              alt="Telecommunications tower and fiber infrastructure at sunset"
-              width={720}
-              height={520}
-              className="relative z-10 rounded-3xl border border-white/40 shadow-card"
-              priority
-            />
-          </div>
+          <HeroVisual />
         </div>
       </section>
 
