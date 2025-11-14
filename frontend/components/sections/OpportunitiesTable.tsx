@@ -159,8 +159,10 @@ export const OpportunitiesTable = ({ opportunities, minScore }: OpportunitiesTab
                   key={type}
                   onClick={() => setFilters((prev) => ({ ...prev, procurementType: type }))}
                   className={clsx(
-                    "rounded-full border border-slate/20 px-3 py-1.5 text-xs font-medium text-slate transition-colors hover:border-ocean/40 hover:text-ocean",
-                    filters.procurementType === type && "border-ocean bg-ocean text-white shadow-sm"
+                    "rounded-full px-3 py-1.5 text-xs font-medium transition-colors",
+                    filters.procurementType === type
+                      ? "border-ocean bg-ocean text-white shadow-sm"
+                      : "border border-slate/20 bg-white text-slate hover:border-ocean/40 hover:text-ocean"
                   )}
                 >
                   {type}
