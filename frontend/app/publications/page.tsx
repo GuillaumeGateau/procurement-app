@@ -21,7 +21,14 @@ export default function PublicationsPage() {
         <div className="container-responsive grid gap-6 md:grid-cols-2">
           {publications.map((publication) => (
             <Card key={publication.title}>
-              <h3 className="text-lg font-semibold text-slate">{publication.title}</h3>
+              <div className="flex items-start justify-between gap-3">
+                <h3 className="text-lg font-semibold text-slate">{publication.title}</h3>
+                {publication.type ? (
+                  <span className="rounded-full bg-ocean/5 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-ocean/80">
+                    {publication.type}
+                  </span>
+                ) : null}
+              </div>
               {publication.summary ? (
                 <p className="mt-2 text-sm text-muted leading-relaxed">{publication.summary}</p>
               ) : null}

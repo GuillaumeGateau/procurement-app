@@ -25,7 +25,14 @@ export const PublicationsShowcase = ({ publications }: PublicationsShowcaseProps
       <div className="grid gap-6 md:grid-cols-2">
         {publications.slice(0, 6).map((publication) => (
           <Card key={publication.title} tone="tint">
-            <h3 className="text-lg font-semibold text-slate">{publication.title}</h3>
+            <div className="flex items-start justify-between gap-3">
+              <h3 className="text-lg font-semibold text-slate">{publication.title}</h3>
+              {publication.type ? (
+                <span className="rounded-full bg-white/60 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-muted">
+                  {publication.type}
+                </span>
+              ) : null}
+            </div>
             {publication.summary ? (
               <p className="mt-2 text-sm text-muted leading-relaxed">{publication.summary}</p>
             ) : null}

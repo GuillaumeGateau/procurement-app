@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { TeamMember } from "@lib/content";
 import { Card } from "@ui/Card";
 import { Tag } from "@ui/Tag";
@@ -22,28 +23,38 @@ export const TeamSection = ({ members }: TeamSectionProps) => (
 
       <div className="grid gap-6 md:grid-cols-2">
         {members.map((member) => (
-          <Card key={member.name}>
+          <Card key={member.name} className="overflow-hidden">
             <div className="flex flex-col gap-4 sm:flex-row sm:items-start">
-              <div className="flex-1 space-y-2">
-                <h3 className="text-xl font-semibold text-slate">{member.name}</h3>
-                {member.role ? <p className="text-sm text-muted">{member.role}</p> : null}
-                <div className="flex flex-wrap gap-2 pt-1">
+              {member.photo ? (
+                <div className="relative h-32 w-32 flex-shrink-0 overflow-hidden rounded-2xl bg-sand/40 shadow-inner">
+                  <Image src={member.photo} alt={`${member.name} portrait`} fill sizes="128px" className="object-cover" />
+                </div>
+              ) : null}
+
+              <div className="flex-1 space-y-3">
+                <div>
+                  <h3 className="text-xl font-semibold text-slate">{member.name}</h3>
+                  {member.role ? <p className="text-sm text-muted">{member.role}</p> : null}
+                </div>
+
+                <div className="flex flex-wrap gap-2">
                   {member.expertise.map((exp) => (
-                    <Tag key={exp} label={exp} tone="accent" />
+                    <Tag key={exp} label={exp} tone="muted" className="text-xs" />
                   ))}
                 </div>
-              </div>
-              <div className="space-y-1 text-sm text-muted">
-                {member.email ? (
-                  <a href={`mailto:${member.email}`} className="block hover:text-ocean">
-                    {member.email}
-                  </a>
-                ) : null}
-                {member.phone ? (
-                  <a href={`tel:${member.phone}`} className="block hover:text-ocean">
-                    {member.phone}
-                  </a>
-                ) : null}
+
+                <div className="flex flex-wrap gap-x-6 gap-y-2 text-sm text-muted">
+                  {member.email ? (
+                    <a href={`mailto:${member.email}`} className="transition-colors hover:text-ocean font-medium">
+                      {member.email}
+                    </a>
+                  ) : null}
+                  {member.phone ? (
+                    <a href={`tel:${member.phone}`} className="transition-colors hover:text-ocean font-medium">
+                      {member.phone}
+                    </a>
+                  ) : null}
+                </div>
               </div>
             </div>
 
@@ -51,7 +62,7 @@ export const TeamSection = ({ members }: TeamSectionProps) => (
               <ul className="mt-4 space-y-2 text-sm text-slate">
                 {member.notable.map((note) => (
                   <li key={note} className="flex items-start gap-2">
-                    <span className="mt-1 h-1.5 w-1.5 rounded-full bg-accent" />
+                    <span className="mt-1 h-1.5 w-1.5 flex-shrink-0 rounded-full bg-ocean/60" />
                     <span>{note}</span>
                   </li>
                 ))}

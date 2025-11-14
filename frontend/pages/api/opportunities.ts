@@ -14,6 +14,9 @@ type NoticeRecord = {
   fit_score?: number;
   structuredScore?: number;
   totalScore?: number;
+  budget_min?: number;
+  budget_max?: number;
+  currency?: string;
   raw_json?: Record<string, unknown>;
 };
 
@@ -22,6 +25,16 @@ type SemanticMatch = {
   sourceTitle?: string;
   sourceUrl?: string;
   sourceType?: string;
+};
+
+type ReferenceProject = {
+  title: string;
+  summary?: string;
+};
+
+type DocumentLink = {
+  title?: string;
+  url: string;
 };
 
 type ApiNotice = {
@@ -35,7 +48,12 @@ type ApiNotice = {
   structuredScore: number;
   semanticScore?: number;
   semanticMatches?: SemanticMatch[];
-  fitExplanation?: string;
+  fitSummary?: string;
+  fitPros?: string[];
+  fitCons?: string[];
+  referenceProjects?: ReferenceProject[];
+  documents?: DocumentLink[];
+  budget?: { currency?: string; min?: number; max?: number };
 };
 
 export default function handler(req: NextApiRequest, res: NextApiResponse<{ notices: ApiNotice[] } | { error: string }>) {
@@ -53,6 +71,12 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<{ noti
   const notices: NoticeRecord[] = JSON.parse(file);
   const formatted: ApiNotice[] = notices.map((notice) => {
     const semanticMatches = (notice.raw_json?.semanticMatches as SemanticMatch[] | undefined) ?? [];
+    const referenceProjects = (notice.raw_json?.referenceProjects as ReferenceProject[] | undefined) ?? [];
+    const fitPros = (notice.raw_json?.fitPros as string[] | undefined) ?? [];
+    const fitCons = (notice.raw_json?.fitCons as string[] | undefined) ?? [];
+    const documents = (notice.raw_json?.documents as DocumentLink[] | undefined) ?? [];
+    const budgetFromRaw = notice.raw_json?.budget as { currency?: string; min?: number; max?: number } | undefined;
+
     return {
       id: notice.id,
       title: notice.title,
@@ -64,7 +88,16 @@ export default function handler(req: NextApiRequest, res: NextApiResponse<{ noti
       structuredScore: notice.structuredScore ?? 0,
       semanticScore: notice.raw_json?.semanticScore as number | undefined,
       semanticMatches,
-      fitExplanation: notice.raw_json?.fitExplanation as string | undefined,
+      fitSummary: notice.raw_json?.fitSummary as string | undefined,
+      fitPros,
+      fitCons,
+      referenceProjects,
+      documents,
+      budget: budgetFromRaw ?? {
+        currency: notice.currency,
+        min: notice.budget_min,
+        max: notice.budget_max,
+      },
     };
   });
 

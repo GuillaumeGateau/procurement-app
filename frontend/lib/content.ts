@@ -29,6 +29,7 @@ export type TeamMember = {
   role?: string;
   email?: string;
   phone?: string;
+  photo?: string;
   expertise: string[];
   notable?: string[];
 };
@@ -44,6 +45,7 @@ export type Publication = {
   summary?: string;
   url: string;
   year?: string;
+  type?: string;
 };
 
 export const loadYaml = <T>(relativePath: string): T => {

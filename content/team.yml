@@ -2,6 +2,7 @@
   role: Partner
   email: rory@macmillankeck.pro
   phone: "+41 79 752 36 22"
+  photo: /assets/team/rory-macmillan.jpg
   expertise:
     - Electronic communications law and regulation
     - Data protection and privacy law
@@ -18,6 +19,7 @@
   role: Partner
   email: richard@macmillankeck.pro
   phone: "+1 404 348 3333"
+  photo: /assets/team/richard-keck.jpg
   expertise:
     - Telecommunications and digital services
     - Corporate, commercial and finance
@@ -33,6 +35,7 @@
   role: Counsel
   email: jasonblechman@macmillankeck.pro
   phone: "+1 917 968 1571"
+  photo: /assets/team/jason-blechman.jpg
   expertise:
     - Data protection and digital identification
     - Digital financial services
@@ -49,6 +52,7 @@
   role: Counsel
   email: scottgarvey@macmillankeck.pro
   phone: "+1 646 954 5381"
+  photo: /assets/team/scott-garvey.jpg
   expertise:
     - Telecommunications law and transactions
     - International and corporate tax
@@ -64,6 +68,7 @@
   role: Counsel
   email: laletuzmen@macmillankeck.pro
   phone: "+1 929 354 9955"
+  photo: /assets/team/lale-tuzmen-aktas.jpg
   expertise:
     - Corporate and technology transactions
     - Entrepreneurs and emerging companies
@@ -78,6 +83,7 @@
   role: Counsel
   email: christinaheliotis@macmillankeck.pro
   phone: "+1 202 451 8395"
+  photo: /assets/team/christina-heliotis.jpg
   expertise:
     - Data governance and privacy
     - Cybersecurity and digital transformation

@@ -53,12 +53,12 @@ export default function HomePage() {
             </div>
           </div>
           <div className="relative flex justify-center">
-            <div className="absolute inset-0 -translate-y-6 translate-x-4 rounded-full bg-accent/10 blur-3xl" />
+            <div className="absolute inset-0 -translate-y-6 translate-x-4 rounded-full bg-ocean/10 blur-3xl" />
             <Image
-              src="/assets/hero-illustration.jpg"
-              alt="Global digital infrastructure illustration"
+              src="/assets/hero-tower.jpg"
+              alt="Telecommunications tower and fiber infrastructure at sunset"
               width={720}
-              height={540}
+              height={520}
               className="relative z-10 rounded-3xl border border-white/40 shadow-card"
               priority
             />

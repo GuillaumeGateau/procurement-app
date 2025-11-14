@@ -1,156 +1,120 @@
 [
   {
     "id": "MK-SAMPLE-001",
-    "title": "Mobile Money Interoperability & Competition Assessment in Rwanda",
+    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
     "agency": "UN Capital Development Fund",
     "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Rwanda"
+        "country": "Ghana"
       }
     ],
     "deadline": "2025-12-01T23:59:59Z",
-    "structuredScore": 65,
-    "totalScore": 84,
+    "structuredScore": 72,
+    "totalScore": 94,
+    "budget_min": 388000,
+    "budget_max": 544000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.37,
+      "semanticScore": 0.39,
       "semanticMatches": [
         {
-          "score": 0.37,
+          "score": 0.39,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Rwanda matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 65 and total score 84 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Ghana to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 388000,
+        "max": 544000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
     "id": "MK-SAMPLE-002",
-    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
-    "agency": "UNICEF",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Ethiopia"
-      }
-    ],
-    "deadline": "2025-12-04T23:59:59Z",
-    "structuredScore": 70,
-    "totalScore": 86,
-    "raw_json": {
-      "semanticScore": 0.37,
-      "semanticMatches": [
-        {
-          "score": 0.37,
-          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 70 and total score 86 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-003",
-    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
-    "agency": "UNDP",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Vanuatu"
-      }
-    ],
-    "deadline": "2025-12-07T23:59:59Z",
-    "structuredScore": 85,
-    "totalScore": 82,
-    "raw_json": {
-      "semanticScore": 0.44,
-      "semanticMatches": [
-        {
-          "score": 0.44,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Vanuatu matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 85 and total score 82 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-004",
-    "title": "Data Protection and Privacy Regulatory Support for Mauritius",
-    "agency": "African Union",
-    "procurement_type": "EOI",
-    "countries": [
-      {
-        "country": "Mauritius"
-      }
-    ],
-    "deadline": "2025-12-10T23:59:59Z",
-    "structuredScore": 70,
-    "totalScore": 87,
-    "raw_json": {
-      "semanticScore": 0.36,
-      "semanticMatches": [
-        {
-          "score": 0.36,
-          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Mauritius matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 70 and total score 87 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-005",
-    "title": "Infrastructure Sharing Roadmap for Sierra Leone",
+    "title": "Infrastructure Sharing Roadmap for Liberia",
     "agency": "World Bank",
     "procurement_type": "ITB",
     "countries": [
       {
-        "country": "Sierra Leone"
+        "country": "Liberia"
       }
     ],
-    "deadline": "2025-12-13T23:59:59Z",
-    "structuredScore": 69,
+    "deadline": "2025-12-03T23:59:59Z",
+    "structuredScore": 77,
     "totalScore": 88,
-    "raw_json": {
-      "semanticScore": 0.4,
-      "semanticMatches": [
-        {
-          "score": 0.4,
-          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Sierra Leone matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 69 and total score 88 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-006",
-    "title": "Infrastructure Sharing Roadmap for Sierra Leone",
-    "agency": "World Bank",
-    "procurement_type": "ITB",
-    "countries": [
-      {
-        "country": "Sierra Leone"
-      }
-    ],
-    "deadline": "2025-12-16T23:59:59Z",
-    "structuredScore": 74,
-    "totalScore": 84,
+    "budget_min": 363000,
+    "budget_max": 510000,
+    "currency": "USD",
     "raw_json": {
       "semanticScore": 0.31,
       "semanticMatches": [
         {
           "score": 0.31,
           "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Sierra Leone matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 74 and total score 84 exceed our 80+ bar."
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Liberia; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 363000,
+        "max": 510000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-007",
+    "id": "MK-SAMPLE-003",
     "title": "Infrastructure Sharing Roadmap for Lesotho",
     "agency": "World Bank",
     "procurement_type": "ITB",
@@ -159,173 +123,283 @@
         "country": "Lesotho"
       }
     ],
-    "deadline": "2025-12-19T23:59:59Z",
-    "structuredScore": 75,
-    "totalScore": 95,
-    "raw_json": {
-      "semanticScore": 0.43,
-      "semanticMatches": [
-        {
-          "score": 0.43,
-          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with World Bank and similar infrastructure sharing work in Lesotho matches this requirement. Semantic evidence references Fostering cross-sector infrastructure sharing for broadband. Structured score 75 and total score 95 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-008",
-    "title": "Data Protection and Privacy Regulatory Support for Mauritius",
-    "agency": "African Union",
-    "procurement_type": "EOI",
-    "countries": [
-      {
-        "country": "Mauritius"
-      }
-    ],
-    "deadline": "2025-12-22T23:59:59Z",
-    "structuredScore": 67,
-    "totalScore": 91,
-    "raw_json": {
-      "semanticScore": 0.4,
-      "semanticMatches": [
-        {
-          "score": 0.4,
-          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Mauritius matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 67 and total score 91 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-009",
-    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
-    "agency": "UNDP",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Timor Leste"
-      }
-    ],
-    "deadline": "2025-12-25T23:59:59Z",
-    "structuredScore": 80,
+    "deadline": "2025-12-05T23:59:59Z",
+    "structuredScore": 83,
     "totalScore": 83,
+    "budget_min": 897000,
+    "budget_max": 1154000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.33,
+      "semanticScore": 0.31,
       "semanticMatches": [
         {
-          "score": 0.33,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "score": 0.31,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 80 and total score 83 exceed our 80+ bar."
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Lesotho; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 897000,
+        "max": 1154000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-010",
-    "title": "Data Protection and Privacy Regulatory Support for Malawi",
-    "agency": "African Union",
-    "procurement_type": "EOI",
+    "id": "MK-SAMPLE-004",
+    "title": "Infrastructure Sharing Roadmap for Liberia",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
     "countries": [
       {
-        "country": "Malawi"
+        "country": "Liberia"
       }
     ],
-    "deadline": "2025-12-28T23:59:59Z",
+    "deadline": "2025-12-07T23:59:59Z",
     "structuredScore": 77,
-    "totalScore": 87,
+    "totalScore": 91,
+    "budget_min": 1161000,
+    "budget_max": 1424000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.4,
+      "semanticScore": 0.42,
       "semanticMatches": [
         {
-          "score": 0.4,
-          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "score": 0.42,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Malawi matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 77 and total score 87 exceed our 80+ bar."
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Liberia; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 1161000,
+        "max": 1424000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-011",
-    "title": "Data Protection and Privacy Regulatory Support for Botswana",
-    "agency": "African Union",
-    "procurement_type": "EOI",
-    "countries": [
-      {
-        "country": "Botswana"
-      }
-    ],
-    "deadline": "2025-12-31T23:59:59Z",
-    "structuredScore": 76,
-    "totalScore": 95,
-    "raw_json": {
-      "semanticScore": 0.37,
-      "semanticMatches": [
-        {
-          "score": 0.37,
-          "sourceTitle": "Drafting Malawi\u2019s Data Protection Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with African Union and similar data protection regulation work in Botswana matches this requirement. Semantic evidence references Drafting Malawi\u2019s Data Protection Bill. Structured score 76 and total score 95 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-012",
-    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
-    "agency": "UNDP",
+    "id": "MK-SAMPLE-005",
+    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
+    "agency": "UN Capital Development Fund",
     "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Timor Leste"
+        "country": "Ghana"
       }
     ],
-    "deadline": "2026-01-03T23:59:59Z",
-    "structuredScore": 65,
-    "totalScore": 86,
+    "deadline": "2025-12-09T23:59:59Z",
+    "structuredScore": 79,
+    "totalScore": 93,
+    "budget_min": 418000,
+    "budget_max": 563000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.41,
+      "semanticScore": 0.39,
       "semanticMatches": [
         {
-          "score": 0.41,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "score": 0.39,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 65 and total score 86 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Ghana to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 418000,
+        "max": 563000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-013",
-    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "id": "MK-SAMPLE-006",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Uganda",
     "agency": "UNICEF",
     "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Ethiopia"
+        "country": "Uganda"
       }
     ],
-    "deadline": "2026-01-06T23:59:59Z",
-    "structuredScore": 74,
-    "totalScore": 85,
+    "deadline": "2025-12-11T23:59:59Z",
+    "structuredScore": 71,
+    "totalScore": 86,
+    "budget_min": 835000,
+    "budget_max": 1177000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.4,
+      "semanticScore": 0.35,
       "semanticMatches": [
         {
-          "score": 0.4,
+          "score": 0.35,
           "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 74 and total score 85 exceed our 80+ bar."
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Uganda to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 835000,
+        "max": 1177000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-014",
+    "id": "MK-SAMPLE-007",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Tanzania",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Tanzania"
+      }
+    ],
+    "deadline": "2025-12-13T23:59:59Z",
+    "structuredScore": 86,
+    "totalScore": 91,
+    "budget_min": 788000,
+    "budget_max": 1072000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.36,
+      "semanticMatches": [
+        {
+          "score": 0.36,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Tanzania to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 788000,
+        "max": 1072000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-008",
     "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
     "agency": "UN Capital Development Fund",
     "procurement_type": "RFP",
@@ -334,119 +408,621 @@
         "country": "Kenya"
       }
     ],
-    "deadline": "2026-01-09T23:59:59Z",
-    "structuredScore": 67,
-    "totalScore": 85,
+    "deadline": "2025-12-15T23:59:59Z",
+    "structuredScore": 82,
+    "totalScore": 86,
+    "budget_min": 370000,
+    "budget_max": 464000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.4,
+      "semanticScore": 0.31,
       "semanticMatches": [
         {
-          "score": 0.4,
+          "score": 0.31,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 67 and total score 85 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Kenya to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 370000,
+        "max": 464000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-015",
-    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
-    "agency": "WHO",
-    "procurement_type": "EOI",
+    "id": "MK-SAMPLE-009",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Rwanda",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Senegal"
+        "country": "Rwanda"
       }
     ],
-    "deadline": "2026-01-12T23:59:59Z",
-    "structuredScore": 70,
+    "deadline": "2025-12-17T23:59:59Z",
+    "structuredScore": 78,
+    "totalScore": 94,
+    "budget_min": 556000,
+    "budget_max": 710000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Rwanda to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 556000,
+        "max": 710000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-010",
+    "title": "Mobile Money Interoperability & Competition Assessment in Rwanda",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Rwanda"
+      }
+    ],
+    "deadline": "2025-12-19T23:59:59Z",
+    "structuredScore": 79,
     "totalScore": 82,
+    "budget_min": 442000,
+    "budget_max": 563000,
+    "currency": "USD",
     "raw_json": {
       "semanticScore": 0.38,
       "semanticMatches": [
         {
           "score": 0.38,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 82 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Rwanda to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 442000,
+        "max": 563000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-016",
-    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
-    "agency": "UNDP",
+    "id": "MK-SAMPLE-011",
+    "title": "Mobile Money Interoperability & Competition Assessment in Tanzania",
+    "agency": "UN Capital Development Fund",
     "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Fiji"
+        "country": "Tanzania"
       }
     ],
-    "deadline": "2026-01-15T23:59:59Z",
-    "structuredScore": 79,
-    "totalScore": 91,
+    "deadline": "2025-12-21T23:59:59Z",
+    "structuredScore": 71,
+    "totalScore": 95,
+    "budget_min": 429000,
+    "budget_max": 598000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.32,
+      "semanticScore": 0.38,
       "semanticMatches": [
         {
-          "score": 0.32,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "score": 0.38,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Fiji matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 79 and total score 91 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Tanzania to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 429000,
+        "max": 598000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-017",
-    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
-    "agency": "WHO",
-    "procurement_type": "EOI",
+    "id": "MK-SAMPLE-012",
+    "title": "Mobile Money Interoperability & Competition Assessment in Tanzania",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Senegal"
+        "country": "Tanzania"
       }
     ],
-    "deadline": "2026-01-18T23:59:59Z",
-    "structuredScore": 70,
-    "totalScore": 94,
+    "deadline": "2025-12-23T23:59:59Z",
+    "structuredScore": 68,
+    "totalScore": 93,
+    "budget_min": 372000,
+    "budget_max": 473000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.41,
+      "semanticScore": 0.34,
       "semanticMatches": [
         {
-          "score": 0.41,
+          "score": 0.34,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 94 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Tanzania to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 372000,
+        "max": 473000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-018",
-    "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
-    "agency": "UN Capital Development Fund",
+    "id": "MK-SAMPLE-013",
+    "title": "Infrastructure Sharing Roadmap for Botswana",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Botswana"
+      }
+    ],
+    "deadline": "2025-12-25T23:59:59Z",
+    "structuredScore": 85,
+    "totalScore": 96,
+    "budget_min": 473000,
+    "budget_max": 772000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Botswana; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 473000,
+        "max": 772000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-014",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Tanzania",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Tanzania"
+      }
+    ],
+    "deadline": "2025-12-27T23:59:59Z",
+    "structuredScore": 75,
+    "totalScore": 95,
+    "budget_min": 920000,
+    "budget_max": 1104000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.34,
+      "semanticMatches": [
+        {
+          "score": 0.34,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Tanzania to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 920000,
+        "max": 1104000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-015",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Kenya",
+    "agency": "UNICEF",
     "procurement_type": "RFP",
     "countries": [
       {
         "country": "Kenya"
       }
     ],
-    "deadline": "2026-01-21T23:59:59Z",
-    "structuredScore": 81,
-    "totalScore": 91,
+    "deadline": "2025-12-29T23:59:59Z",
+    "structuredScore": 72,
+    "totalScore": 85,
+    "budget_min": 1016000,
+    "budget_max": 1236000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.38,
+      "semanticMatches": [
+        {
+          "score": 0.38,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Kenya to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 1016000,
+        "max": 1236000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-016",
+    "title": "Infrastructure Sharing Roadmap for Sierra Leone",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Sierra Leone"
+      }
+    ],
+    "deadline": "2025-12-31T23:59:59Z",
+    "structuredScore": 86,
+    "totalScore": 94,
+    "budget_min": 934000,
+    "budget_max": 1241000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Sierra Leone; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 934000,
+        "max": 1241000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-017",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in C\u00f4te d\u2019Ivoire",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "C\u00f4te d\u2019Ivoire"
+      }
+    ],
+    "deadline": "2026-01-02T23:59:59Z",
+    "structuredScore": 72,
+    "totalScore": 96,
+    "budget_min": 350000,
+    "budget_max": 480000,
+    "currency": "USD",
     "raw_json": {
       "semanticScore": 0.37,
       "semanticMatches": [
         {
           "score": 0.37,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 91 exceed our 80+ bar."
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in C\u00f4te d\u2019Ivoire."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 350000,
+        "max": 480000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-018",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Nigeria",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Nigeria"
+      }
+    ],
+    "deadline": "2026-01-04T23:59:59Z",
+    "structuredScore": 73,
+    "totalScore": 82,
+    "budget_min": 455000,
+    "budget_max": 693000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.47,
+      "semanticMatches": [
+        {
+          "score": 0.47,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Nigeria."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 455000,
+        "max": 693000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
     }
   },
   {
@@ -459,69 +1035,165 @@
         "country": "Kenya"
       }
     ],
-    "deadline": "2026-01-24T23:59:59Z",
-    "structuredScore": 82,
-    "totalScore": 91,
+    "deadline": "2026-01-06T23:59:59Z",
+    "structuredScore": 78,
+    "totalScore": 86,
+    "budget_min": 309000,
+    "budget_max": 419000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.38,
+      "semanticScore": 0.36,
       "semanticMatches": [
         {
-          "score": 0.38,
+          "score": 0.36,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Kenya matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 82 and total score 91 exceed our 80+ bar."
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Kenya to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 309000,
+        "max": 419000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
     }
   },
   {
     "id": "MK-SAMPLE-020",
-    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
-    "agency": "UNICEF",
-    "procurement_type": "RFP",
+    "title": "Data Protection and Privacy Regulatory Support for Namibia",
+    "agency": "African Union",
+    "procurement_type": "EOI",
     "countries": [
       {
-        "country": "Ethiopia"
+        "country": "Namibia"
       }
     ],
-    "deadline": "2026-01-27T23:59:59Z",
-    "structuredScore": 75,
-    "totalScore": 87,
+    "deadline": "2026-01-08T23:59:59Z",
+    "structuredScore": 77,
+    "totalScore": 90,
+    "budget_min": 379000,
+    "budget_max": 507000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.39,
+      "semanticScore": 0.4,
       "semanticMatches": [
         {
-          "score": 0.39,
-          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "score": 0.4,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 75 and total score 87 exceed our 80+ bar."
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Namibia to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 379000,
+        "max": 507000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
     }
   },
   {
     "id": "MK-SAMPLE-021",
-    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
+    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
     "agency": "UNDP",
     "procurement_type": "RFP",
     "countries": [
       {
-        "country": "Timor Leste"
+        "country": "Vanuatu"
       }
     ],
-    "deadline": "2026-01-30T23:59:59Z",
-    "structuredScore": 85,
-    "totalScore": 90,
+    "deadline": "2026-01-10T23:59:59Z",
+    "structuredScore": 84,
+    "totalScore": 94,
+    "budget_min": 332000,
+    "budget_max": 422000,
+    "currency": "USD",
     "raw_json": {
       "semanticScore": 0.42,
       "semanticMatches": [
         {
           "score": 0.42,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Timor Leste matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 85 and total score 90 exceed our 80+ bar."
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Vanuatu to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 332000,
+        "max": 422000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
     }
   },
   {
@@ -534,48 +1206,340 @@
         "country": "Ethiopia"
       }
     ],
-    "deadline": "2026-02-02T23:59:59Z",
-    "structuredScore": 82,
-    "totalScore": 95,
+    "deadline": "2026-01-12T23:59:59Z",
+    "structuredScore": 85,
+    "totalScore": 84,
+    "budget_min": 997000,
+    "budget_max": 1228000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.35,
+      "semanticMatches": [
+        {
+          "score": 0.35,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Ethiopia to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 997000,
+        "max": 1228000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-023",
+    "title": "Data Protection and Privacy Regulatory Support for Botswana",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Botswana"
+      }
+    ],
+    "deadline": "2026-01-14T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 90,
+    "budget_min": 220000,
+    "budget_max": 355000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Botswana to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 220000,
+        "max": 355000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-024",
+    "title": "Infrastructure Sharing Roadmap for Lesotho",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Lesotho"
+      }
+    ],
+    "deadline": "2026-01-16T23:59:59Z",
+    "structuredScore": 81,
+    "totalScore": 84,
+    "budget_min": 655000,
+    "budget_max": 900000,
+    "currency": "USD",
     "raw_json": {
       "semanticScore": 0.38,
       "semanticMatches": [
         {
           "score": 0.38,
-          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Ethiopia matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 82 and total score 95 exceed our 80+ bar."
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Lesotho; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 655000,
+        "max": 900000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-023",
-    "title": "Supply Chain Optimization Advisory for Essential Medicines in Senegal",
+    "id": "MK-SAMPLE-025",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2026-01-18T23:59:59Z",
+    "structuredScore": 85,
+    "totalScore": 95,
+    "budget_min": 819000,
+    "budget_max": 1084000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.41,
+      "semanticMatches": [
+        {
+          "score": 0.41,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Ethiopia to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 819000,
+        "max": 1084000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-026",
+    "title": "Infrastructure Sharing Roadmap for Malawi",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Malawi"
+      }
+    ],
+    "deadline": "2026-01-20T23:59:59Z",
+    "structuredScore": 76,
+    "totalScore": 83,
+    "budget_min": 1151000,
+    "budget_max": 1459000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.47,
+      "semanticMatches": [
+        {
+          "score": 0.47,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Malawi; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 1151000,
+        "max": 1459000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-027",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Ghana",
     "agency": "WHO",
     "procurement_type": "EOI",
     "countries": [
       {
-        "country": "Senegal"
+        "country": "Ghana"
       }
     ],
-    "deadline": "2026-02-05T23:59:59Z",
-    "structuredScore": 70,
-    "totalScore": 86,
+    "deadline": "2026-01-22T23:59:59Z",
+    "structuredScore": 68,
+    "totalScore": 85,
+    "budget_min": 629000,
+    "budget_max": 852000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.33,
+      "semanticScore": 0.34,
       "semanticMatches": [
         {
-          "score": 0.33,
+          "score": 0.34,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 70 and total score 86 exceed our 80+ bar."
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Ghana."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 629000,
+        "max": 852000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
     }
   },
   {
-    "id": "MK-SAMPLE-024",
+    "id": "MK-SAMPLE-028",
     "title": "Cold Chain Logistics Support for Vaccine Distribution in Kenya",
     "agency": "UNICEF",
     "procurement_type": "RFP",
@@ -584,119 +1548,51 @@
         "country": "Kenya"
       }
     ],
-    "deadline": "2026-02-08T23:59:59Z",
-    "structuredScore": 80,
-    "totalScore": 82,
+    "deadline": "2026-01-24T23:59:59Z",
+    "structuredScore": 83,
+    "totalScore": 89,
+    "budget_min": 588000,
+    "budget_max": 938000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.36,
+      "semanticScore": 0.45,
       "semanticMatches": [
         {
-          "score": 0.36,
+          "score": 0.45,
           "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with UNICEF and similar cold chain and vaccine logistics work in Kenya matches this requirement. Semantic evidence references Bangalink Briefing Paper To Bb 161004. Structured score 80 and total score 82 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-025",
-    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
-    "agency": "UNDP",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Fiji"
-      }
-    ],
-    "deadline": "2026-02-11T23:59:59Z",
-    "structuredScore": 77,
-    "totalScore": 86,
-    "raw_json": {
-      "semanticScore": 0.42,
-      "semanticMatches": [
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Kenya to complement our policy bench."
+      ],
+      "referenceProjects": [
         {
-          "score": 0.42,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Fiji matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 77 and total score 86 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-026",
-    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
-    "agency": "UN Capital Development Fund",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Ghana"
-      }
-    ],
-    "deadline": "2026-02-14T23:59:59Z",
-    "structuredScore": 68,
-    "totalScore": 87,
-    "raw_json": {
-      "semanticScore": 0.42,
-      "semanticMatches": [
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
         {
-          "score": 0.42,
-          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
         }
       ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 68 and total score 87 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-027",
-    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
-    "agency": "UN Capital Development Fund",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Ghana"
-      }
-    ],
-    "deadline": "2026-02-17T23:59:59Z",
-    "structuredScore": 81,
-    "totalScore": 93,
-    "raw_json": {
-      "semanticScore": 0.43,
-      "semanticMatches": [
+      "budget": {
+        "currency": "USD",
+        "min": 588000,
+        "max": 938000
+      },
+      "documents": [
         {
-          "score": 0.43,
-          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
         }
-      ],
-      "fitExplanation": "Our experience with UN Capital Development Fund and similar mobile money interoperability work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 93 exceed our 80+ bar."
-    }
-  },
-  {
-    "id": "MK-SAMPLE-028",
-    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
-    "agency": "UNDP",
-    "procurement_type": "RFP",
-    "countries": [
-      {
-        "country": "Vanuatu"
-      }
-    ],
-    "deadline": "2026-02-20T23:59:59Z",
-    "structuredScore": 65,
-    "totalScore": 94,
-    "raw_json": {
-      "semanticScore": 0.43,
-      "semanticMatches": [
-        {
-          "score": 0.43,
-          "sourceTitle": "Drafting Samoa\u2019s National Digital Identification Bill",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
-        }
-      ],
-      "fitExplanation": "Our experience with UNDP and similar digital ID framework work in Vanuatu matches this requirement. Semantic evidence references Drafting Samoa\u2019s National Digital Identification Bill. Structured score 65 and total score 94 exceed our 80+ bar."
+      ]
     }
   },
   {
@@ -709,23 +1605,739 @@
         "country": "Senegal"
       }
     ],
-    "deadline": "2026-02-23T23:59:59Z",
-    "structuredScore": 81,
-    "totalScore": 84,
+    "deadline": "2026-01-26T23:59:59Z",
+    "structuredScore": 78,
+    "totalScore": 85,
+    "budget_min": 334000,
+    "budget_max": 465000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.44,
+      "semanticScore": 0.43,
       "semanticMatches": [
         {
-          "score": 0.44,
+          "score": 0.43,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Senegal matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 81 and total score 84 exceed our 80+ bar."
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Senegal."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 334000,
+        "max": 465000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
     }
   },
   {
     "id": "MK-SAMPLE-030",
+    "title": "Mobile Money Interoperability & Competition Assessment in Kenya",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Kenya"
+      }
+    ],
+    "deadline": "2026-01-28T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 90,
+    "budget_min": 426000,
+    "budget_max": 538000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Kenya to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 426000,
+        "max": 538000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-031",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Ethiopia",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ethiopia"
+      }
+    ],
+    "deadline": "2026-01-30T23:59:59Z",
+    "structuredScore": 86,
+    "totalScore": 94,
+    "budget_min": 749000,
+    "budget_max": 1125000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.45,
+      "semanticMatches": [
+        {
+          "score": 0.45,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Ethiopia to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 749000,
+        "max": 1125000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-032",
+    "title": "Data Protection and Privacy Regulatory Support for Ghana",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-01T23:59:59Z",
+    "structuredScore": 71,
+    "totalScore": 94,
+    "budget_min": 385000,
+    "budget_max": 485000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Ghana to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 385000,
+        "max": 485000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-033",
+    "title": "Infrastructure Sharing Roadmap for Lesotho",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Lesotho"
+      }
+    ],
+    "deadline": "2026-02-03T23:59:59Z",
+    "structuredScore": 71,
+    "totalScore": 85,
+    "budget_min": 808000,
+    "budget_max": 1061000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.46,
+      "semanticMatches": [
+        {
+          "score": 0.46,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Lesotho; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 808000,
+        "max": 1061000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-034",
+    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Fiji"
+      }
+    ],
+    "deadline": "2026-02-05T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 93,
+    "budget_min": 458000,
+    "budget_max": 653000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.45,
+      "semanticMatches": [
+        {
+          "score": 0.45,
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Fiji to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 458000,
+        "max": 653000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-035",
+    "title": "Mobile Money Interoperability & Competition Assessment in Ghana",
+    "agency": "UN Capital Development Fund",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-07T23:59:59Z",
+    "structuredScore": 80,
+    "totalScore": 87,
+    "budget_min": 391000,
+    "budget_max": 461000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.36,
+      "semanticMatches": [
+        {
+          "score": 0.36,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Core DFS competition experts with decades of market conduct enforcement and settlement design.",
+      "fitPros": [
+        "Secured a 90% USSD price reduction in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking market entry for new wallets.",
+        "Benchmarked interoperability and compliance regimes across corridors in Studying digital remittances from Malaysia to Philippines."
+      ],
+      "fitCons": [
+        "Would require dedicated behavioural testing labs in Ghana to evidence consumer friction."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 391000,
+        "max": 461000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/BlechmanOdhiamboRoberts_TanzaniaMobileMoney.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-036",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in C\u00f4te d\u2019Ivoire",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "C\u00f4te d\u2019Ivoire"
+      }
+    ],
+    "deadline": "2026-02-09T23:59:59Z",
+    "structuredScore": 74,
+    "totalScore": 96,
+    "budget_min": 564000,
+    "budget_max": 876000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in C\u00f4te d\u2019Ivoire."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 564000,
+        "max": 876000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-037",
+    "title": "Digital ID Legal and Regulatory Framework Review for Fiji",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Fiji"
+      }
+    ],
+    "deadline": "2026-02-11T23:59:59Z",
+    "structuredScore": 76,
+    "totalScore": 87,
+    "budget_min": 528000,
+    "budget_max": 785000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Fiji to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 528000,
+        "max": 785000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-038",
+    "title": "Infrastructure Sharing Roadmap for Liberia",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Liberia"
+      }
+    ],
+    "deadline": "2026-02-13T23:59:59Z",
+    "structuredScore": 83,
+    "totalScore": 88,
+    "budget_min": 911000,
+    "budget_max": 1491000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.39,
+      "semanticMatches": [
+        {
+          "score": 0.39,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Liberia; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 911000,
+        "max": 1491000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-039",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Nigeria",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Nigeria"
+      }
+    ],
+    "deadline": "2026-02-15T23:59:59Z",
+    "structuredScore": 69,
+    "totalScore": 93,
+    "budget_min": 449000,
+    "budget_max": 707000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.34,
+      "semanticMatches": [
+        {
+          "score": 0.34,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Nigeria."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 449000,
+        "max": 707000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-040",
+    "title": "Data Protection and Privacy Regulatory Support for Namibia",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Namibia"
+      }
+    ],
+    "deadline": "2026-02-17T23:59:59Z",
+    "structuredScore": 72,
+    "totalScore": 91,
+    "budget_min": 255000,
+    "budget_max": 369000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.37,
+      "semanticMatches": [
+        {
+          "score": 0.37,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Namibia to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 255000,
+        "max": 369000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-041",
+    "title": "Data Protection and Privacy Regulatory Support for Mauritius",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Mauritius"
+      }
+    ],
+    "deadline": "2026-02-19T23:59:59Z",
+    "structuredScore": 76,
+    "totalScore": 95,
+    "budget_min": 319000,
+    "budget_max": 412000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.39,
+      "semanticMatches": [
+        {
+          "score": 0.39,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Mauritius to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 319000,
+        "max": 412000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-042",
     "title": "Supply Chain Optimization Advisory for Essential Medicines in Ghana",
     "agency": "WHO",
     "procurement_type": "EOI",
@@ -734,19 +2346,507 @@
         "country": "Ghana"
       }
     ],
-    "deadline": "2026-02-26T23:59:59Z",
-    "structuredScore": 69,
+    "deadline": "2026-02-21T23:59:59Z",
+    "structuredScore": 81,
     "totalScore": 88,
+    "budget_min": 492000,
+    "budget_max": 686000,
+    "currency": "USD",
     "raw_json": {
-      "semanticScore": 0.39,
+      "semanticScore": 0.46,
       "semanticMatches": [
         {
-          "score": 0.39,
+          "score": 0.46,
           "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
-          "sourceUrl": "https://www.macmillankeck.pro/publications/"
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
         }
       ],
-      "fitExplanation": "Our experience with WHO and similar supply chain optimization work in Ghana matches this requirement. Semantic evidence references Competition dynamics in mobile money markets in Tanzania. Structured score 69 and total score 88 exceed our 80+ bar."
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Ghana."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 492000,
+        "max": 686000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-043",
+    "title": "Digital ID Legal and Regulatory Framework Review for Samoa",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Samoa"
+      }
+    ],
+    "deadline": "2026-02-23T23:59:59Z",
+    "structuredScore": 76,
+    "totalScore": 96,
+    "budget_min": 562000,
+    "budget_max": 665000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.45,
+      "semanticMatches": [
+        {
+          "score": 0.45,
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Samoa to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 562000,
+        "max": 665000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-044",
+    "title": "Data Protection and Privacy Regulatory Support for Ghana",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Ghana"
+      }
+    ],
+    "deadline": "2026-02-25T23:59:59Z",
+    "structuredScore": 75,
+    "totalScore": 85,
+    "budget_min": 216000,
+    "budget_max": 298000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.43,
+      "semanticMatches": [
+        {
+          "score": 0.43,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Ghana to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 216000,
+        "max": 298000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-045",
+    "title": "Supply Chain Optimization Advisory for Essential Medicines in Nigeria",
+    "agency": "WHO",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Nigeria"
+      }
+    ],
+    "deadline": "2026-02-27T23:59:59Z",
+    "structuredScore": 86,
+    "totalScore": 84,
+    "budget_min": 610000,
+    "budget_max": 721000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.43,
+      "semanticMatches": [
+        {
+          "score": 0.43,
+          "sourceTitle": "Competition dynamics in mobile money markets in Tanzania",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Our economists routinely unwind market bottlenecks and design incentives that keep critical goods moving.",
+      "fitPros": [
+        "Removed entrenched market power in Breaking monopoly bottlenecks for IP transit in landlocked Malawi, delivering 90%+ price reductions for essential connectivity.",
+        "Mapped end-to-end user pricing and compliance flows in Studying digital remittances from Malaysia to Philippines\u2014a playbook for transparent supply logistics."
+      ],
+      "fitCons": [
+        "Engagement would benefit from in-country data analysts embedded with the Ministry of Health in Nigeria."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Breaking monopoly bottlenecks for IP transit in landlocked Malawi",
+          "summary": "Landlocked Malawi had only one international fiber route, controlled by dominant operators in two countries, to connect to the Internet. The Public-Private Partnership Commission hired us to employ an anchor-customer business model funded by the World Bank to foster route and supplier diversity. Kenyan firm SimbaNET was selected to build two new routes. The project brought the price of IP transit in Malawi down from USD 3,000/Mbps/month to USD 135 in 2016 and to USD 30 in 2022."
+        },
+        {
+          "title": "Studying digital remittances from Malaysia to Philippines",
+          "summary": "Consultative Group to Assist the Poor (CGAP), a part of the World Bank Group, engaged us to study the regulatory conditions that have enabled the proliferation of remittance services across the Malaysia-Philippines corridor. Our findings include 10 recommendations for policymakers and regulators in other jurisdictions to promote development of non-bank remittance markets."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 610000,
+        "max": 721000
+      },
+      "documents": [
+        {
+          "title": "Competition dynamics in mobile money markets in Tanzania",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/11/Macmillan-OECD-Competition-for-the-market-2019.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-046",
+    "title": "Cold Chain Logistics Support for Vaccine Distribution in Rwanda",
+    "agency": "UNICEF",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Rwanda"
+      }
+    ],
+    "deadline": "2026-03-01T23:59:59Z",
+    "structuredScore": 70,
+    "totalScore": 87,
+    "budget_min": 807000,
+    "budget_max": 1120000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.32,
+      "semanticMatches": [
+        {
+          "score": 0.32,
+          "sourceTitle": "Bangalink Briefing Paper To Bb 161004",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Team has engineered large-scale public-private partnerships and payment rails that underpin vaccine and health logistics across East and West Africa.",
+      "fitPros": [
+        "Designed the settlement reforms in Solving Kenya\u2019s USSD pricing problem for digital financial services, unlocking real-time pricing visibility across mobile channels.",
+        "Structured multi-party infrastructure agreements in Introducing innovative national PPPs for West African submarine cable, coordinating operators and governments."
+      ],
+      "fitCons": [
+        "Requires rapid mobilisation of cold-chain field partners in Rwanda to complement our policy bench."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Solving Kenya\u2019s USSD pricing problem for digital financial services",
+          "summary": "Safaricom\u2019s M-Pesa is a World and Kenyan market leader in mobile money. Working with Acacia Economics, we carried out a market inquiry for the Competition Authority of Kenya (CAK) into use of USSD channels for digital financial services. Our report found that Safaricom\u2019s high USSD prices caused a margin squeeze for other digital financial service providers. With our support, the CAK negotiated a settlement with Safaricom under which it dropped its USSD prices by 90%, removing a vital barrier to competition in Kenyan digital financial services."
+        },
+        {
+          "title": "Introducing innovative national PPPs for West African submarine cable",
+          "summary": "The World Bank financed development of public private partnerships (PPPs) in West Africa to serve as landing parties for the ACE submarine cable. Acting for the Bank, we introduced a not-for-profit cooperative (shared cost center) institutional design. Our model was adopted by network operators and governments in nine West African countries. We also acted for the Governments of the Gambia, Liberia and Sierra Leone in implementing the model."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 807000,
+        "max": 1120000
+      },
+      "documents": [
+        {
+          "title": "Bangalink Briefing Paper To Bb 161004",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Bangalink_briefing_paper_to_BB_161004.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-047",
+    "title": "Infrastructure Sharing Roadmap for Lesotho",
+    "agency": "World Bank",
+    "procurement_type": "ITB",
+    "countries": [
+      {
+        "country": "Lesotho"
+      }
+    ],
+    "deadline": "2026-03-03T23:59:59Z",
+    "structuredScore": 84,
+    "totalScore": 90,
+    "budget_min": 1233000,
+    "budget_max": 1462000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.38,
+      "semanticMatches": [
+        {
+          "score": 0.38,
+          "sourceTitle": "Fostering cross-sector infrastructure sharing for broadband",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Blueprint authors of the World Bank\u2019s infrastructure sharing toolkit and multiple national rollouts.",
+      "fitPros": [
+        "Co-authored the global reference manual in Fostering cross-sector infrastructure sharing for broadband, complete with contractual templates.",
+        "Implemented shared-fiber backhaul in Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul, coordinating utility and mobile operator incentives."
+      ],
+      "fitCons": [
+        "Needs alignment with energy and transport ministries in Lesotho; we will allocate extra senior time to stakeholder diplomacy."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "summary": "Acting for the World Bank, we developed a web-based resource for telecom operators, utilities, policymakers, regulators and development banks to increase the incidence of cross-sector infrastructure sharing and improve the viability of broadband investments. The toolkit includes 18 case studies from Africa, the Americas, Asia and Europe on telecom use of electric facilities, railways, pipelines and roads."
+        },
+        {
+          "title": "Enabling Africa\u2019s first end-to-end fiber-to-the-tower backhaul",
+          "summary": "State-owned Lesotho Electricity Company had built a fiber network on its transmission lines and had distribution poles throughout its service territory. We advised the utility in selling dark fiber IRUs to Vodacom Lesotho and authorizing the operator to install fiber on distribution poles from substations to towers. This enabled Africa\u2019s first end-to-end fiber-to-the-tower backhaul for a 4G network."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 1233000,
+        "max": 1462000
+      },
+      "documents": [
+        {
+          "title": "Fostering cross-sector infrastructure sharing for broadband",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/07/Competition-and-regulatory-disputes-3-614-2285.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-048",
+    "title": "Digital ID Legal and Regulatory Framework Review for Vanuatu",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Vanuatu"
+      }
+    ],
+    "deadline": "2026-03-05T23:59:59Z",
+    "structuredScore": 79,
+    "totalScore": 90,
+    "budget_min": 543000,
+    "budget_max": 688000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.42,
+      "semanticMatches": [
+        {
+          "score": 0.42,
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Vanuatu to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 543000,
+        "max": 688000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-049",
+    "title": "Data Protection and Privacy Regulatory Support for Namibia",
+    "agency": "African Union",
+    "procurement_type": "EOI",
+    "countries": [
+      {
+        "country": "Namibia"
+      }
+    ],
+    "deadline": "2026-03-07T23:59:59Z",
+    "structuredScore": 86,
+    "totalScore": 90,
+    "budget_min": 202000,
+    "budget_max": 256000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.4,
+      "semanticMatches": [
+        {
+          "score": 0.4,
+          "sourceTitle": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "Combines legislative drafting with hands-on implementation support for regulators standing up new DPAs.",
+      "fitPros": [
+        "Drafted the flagship legislation in Drafting Malawi\u2019s Data Protection Bill with pragmatic supervisory workflows.",
+        "Guided multinational IoT deployments in Advising on connected cars, IoT and other digital services, ensuring cross-border compliance."
+      ],
+      "fitCons": [
+        "Need to scope localisation requirements in Namibia to anticipate adequacy conversations."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        },
+        {
+          "title": "Advising on connected cars, IoT and other digital services",
+          "summary": "Tata provides electronic communications, Internet-of-Things (IoT) and cloud services globally. We regularly advise Tata on telecom and data protection regulations in around 40 countries in Africa, the Middle East, Europe and Asia. We recently served as Tata\u2019s lead external regulatory counsel in the global launch of \u201cconnected car\u201d IoT services in 18 separate jurisdictions."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 202000,
+        "max": 256000
+      },
+      "documents": [
+        {
+          "title": "Big Data, Machine Learning, Consumer Protection and Privacy",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/Big_data_machine_learning_consumer_protection_and_privacy_2019_Rory_Macmillan.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MK-SAMPLE-050",
+    "title": "Digital ID Legal and Regulatory Framework Review for Timor Leste",
+    "agency": "UNDP",
+    "procurement_type": "RFP",
+    "countries": [
+      {
+        "country": "Timor Leste"
+      }
+    ],
+    "deadline": "2026-03-09T23:59:59Z",
+    "structuredScore": 73,
+    "totalScore": 89,
+    "budget_min": 487000,
+    "budget_max": 663000,
+    "currency": "USD",
+    "raw_json": {
+      "semanticScore": 0.33,
+      "semanticMatches": [
+        {
+          "score": 0.33,
+          "sourceTitle": "Expert Group Report on Digital Identification Governance",
+          "sourceUrl": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf",
+          "sourceType": "publication"
+        }
+      ],
+      "fitSummary": "We author pragmatic digital ID legislation and operational frameworks tailored to island and frontier economies.",
+      "fitPros": [
+        "Delivered the full-stack legal architecture in Drafting Samoa\u2019s National Digital Identification Bill, balancing inclusion, privacy, and interoperability.",
+        "Crafted actionable data governance toolkits applied by multiple Pacific regulators."
+      ],
+      "fitCons": [
+        "Requires early agreement on hosting arrangements in Timor Leste to avoid procurement delays."
+      ],
+      "referenceProjects": [
+        {
+          "title": "Drafting Samoa\u2019s National Digital Identification Bill",
+          "summary": "The Government of Samoa engaged us to draft a Bill governing a new national digital ID system that will allow for real-time authentication of individuals. This will support digital government services and the broader digital economy. The Bill that we crafted tailors international best practice to the needs a small economy."
+        },
+        {
+          "title": "Drafting Malawi\u2019s Data Protection Bill",
+          "summary": "The Government of Malawi engaged us to draft their data protection bill. We wove international best practice together with the realities of a low-income economy. We drafted a practical law that would support confidence in and limit the burden on the emerging digital economy. A key aim was not to allow the law or limited institutional capacity of the data protection authority to create a bottleneck to development while establishing clear rights of individuals and duties of data controllers and processors."
+        }
+      ],
+      "budget": {
+        "currency": "USD",
+        "min": 487000,
+        "max": 663000
+      },
+      "documents": [
+        {
+          "title": "Expert Group Report on Digital Identification Governance",
+          "url": "https://www.macmillankeck.pro/wp-content/uploads/2022/03/ExpertGroupReportFeb2018.pdf"
+        }
+      ]
     }
   }
 ]
