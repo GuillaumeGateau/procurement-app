@@ -14,3 +14,5 @@ openai>=1.30.0
 pinecone>=7.0.0
 tiktoken
 pypdf
+fastapi
+uvicorn[standard]
