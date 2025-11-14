@@ -30,6 +30,14 @@ app.add_middleware(
 )
 
 
+@app.get("/")
+async def root() -> Dict[str, str]:
+    return {
+        "message": "Procurement API is running. Use /health or /opportunities.",
+        "docs": "/docs",
+    }
+
+
 @app.get("/health")
 async def health() -> Dict[str, str]:
     return {"status": "ok"}
