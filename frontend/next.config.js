@@ -7,7 +7,16 @@ const nextConfig = {
     domains: [],
   },
   reactStrictMode: true,
-}
+  async redirects() {
+    return [
+      {
+        source: "/why-engage",
+        destination: "/the-road-ahead",
+        permanent: true,
+      },
+    ];
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
 
